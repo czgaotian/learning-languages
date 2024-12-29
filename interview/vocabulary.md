@@ -1,0 +1,4 @@
+# Vocabulary
+
+|word|pronunciation|meaning|
+|-|-|-|

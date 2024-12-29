@@ -3,16 +3,16 @@
 layout: home
 
 hero:
-  name: "Learning English"
-  text: "Record of learning English"
-  tagline: My great project tagline
+  name: "Learning Languages"
+  text: "Record notes of languages learning"
+  tagline: Good good study, day day up
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Interview
+      link: /interview
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Grammar
+      link: /Grammar
 
 features:
   - title: Feature A
