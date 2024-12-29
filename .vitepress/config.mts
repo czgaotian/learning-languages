@@ -10,6 +10,7 @@ export default defineConfig({
       { text: "Home", link: "/" },
       { text: "Grammar", link: "/grammar" },
       { text: "Interview", link: "/interview" },
+      {text: "Deutsch", link: "/deutsch"},
     ],
 
     sidebar: {
@@ -25,6 +26,7 @@ export default defineConfig({
         },
       ],
       "/grammar/": [],
+      "/deutsch/": [],
     },
 
     socialLinks: [{ icon: "github", link: "https://github.com/czgaotian" }],
