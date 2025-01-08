@@ -10,7 +10,7 @@ export default defineConfig({
       { text: "Home", link: "/" },
       { text: "Grammar", link: "/grammar" },
       { text: "Interview", link: "/interview" },
-      {text: "Deutsch", link: "/deutsch"},
+      { text: "Deutsch", link: "/Deutsch" },
     ],
 
     sidebar: {
@@ -26,7 +26,18 @@ export default defineConfig({
         },
       ],
       "/grammar/": [],
-      "/deutsch/": [],
+      "/Deutsch/": [
+        {
+          text: "Deutsch",
+          items: [
+            {
+              text: "base",
+              link: "/Deutsch/base.md",
+              items: [{ text: "alphabet", link: "/Deutsch/base/alphabet.md" }],
+            },
+          ],
+        },
+      ],
     },
 
     socialLinks: [{ icon: "github", link: "https://github.com/czgaotian" }],
