@@ -21,7 +21,16 @@ export default defineConfig({
             { text: "Punctuation", link: "/interview/punctuation.md" },
             { text: "Vocabulary", link: "/interview/vocabulary.md" },
             { text: "Sentences", link: "/interview/sentences.md" },
-            { text: "QA", link: "/interview/qa.md" },
+            {
+              text: "QA",
+              link: "/interview/qa",
+              items: [
+                {
+                  text: "21 Behavior Question",
+                  link: "/interview/qa/21BehaviorQuestion.md",
+                },
+              ],
+            },
           ],
         },
       ],
