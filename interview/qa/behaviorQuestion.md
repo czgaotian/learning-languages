@@ -63,6 +63,13 @@
 
 ## Why should we hire you?
 
+## Where do you see yourself in 5 years?
+
+- My goal is to become a world-class programmer.
+- I have currently set a 3-5 year plan. This plan has several small goals, such as becoming an expert in the front-end field and a full-stack engineer, as well as learning a system-level programming language, such as Rust, which can enhance my understanding of computer fundamentals.
+- Then, I want to develop or participate in some well-known open-source projects to enhance my reputation and technical perspective.
+- The above is a more technical-oriented plan. In terms of work, I want to join a suitable company and grow with the company. While familiarizing myself with the company's business, I want to use my technology to empower the business and develop some valuable products.
+
 What's your expected salary/package?
 Tell me about a time when you overcame a challenge at work
 Tell me about a time when you had a conflict with a co-worker.
@@ -71,14 +78,6 @@ Tell me about a problem you've had getting along with a work associate.
 Talk about a project you are most passionate about, or one where you did your best work.
 What are your career goals
 What is the most challenging aspect of your current project?
-
-## Where do you see yourself in 5 years?
-
-- My goal is to become a world-class programmer.
-- I have currently set a 3-5 year plan. This plan has several small goals, such as becoming an expert in the front-end field and a full-stack engineer, as well as learning a system-level programming language, such as Rust, which can enhance my understanding of computer fundamentals.
-- Then, I want to develop or participate in some well-known open-source projects to enhance my reputation and technical perspective.
-- The above is a more technical-oriented plan. In terms of work, I want to join a suitable company and grow with the company. While familiarizing myself with the company's business, I want to use my technology to empower the business and develop some valuable products.
-
 Why do you want to work here?
 What words would your colleagues use to describe you?
 Could you share your top consideration when you look for a job? For example，when you get several offers of these companies, what do you think about most? Salary？Location? and something else?

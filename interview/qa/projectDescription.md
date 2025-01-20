@@ -24,6 +24,12 @@
 
 #### about SharedWorker
 
+- In the 'real-time data viewing’ module, to receive millisecond-level data sent by the backend.
+- Need handle in frontend, classify and process the data. like calculate bar in a period time.
+- Since the data arrives quickly, if too much data is processed on the page, it will cause the page to lag.
+- I used a SharedWorker to create a separate thread for unified processing and throttled the data before returning it.
+- In the main thread, I used requestAnimationFrame to trigger data changes, which made the previously laggy page smooth.
+
 #### DevOps
 
 Integrated Nacos to synchronize project configurations and injected them into environment variables during build time, enabling quick environment switching and increasing testing efficiency by 40%.
