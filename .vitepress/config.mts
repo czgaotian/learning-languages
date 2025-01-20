@@ -26,8 +26,8 @@ export default defineConfig({
               link: "/interview/qa",
               items: [
                 {
-                  text: "21 Behavior Question",
-                  link: "/interview/qa/21BehaviorQuestion.md",
+                  text: "Behavior Question",
+                  link: "/interview/qa/behaviorQuestion.md",
                 },
               ],
             },
