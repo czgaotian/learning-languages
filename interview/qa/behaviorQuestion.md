@@ -1,5 +1,9 @@
 # Behavior Question
 
+## Greetings and Small Talk
+
+- Hello, my name is \*\*\*, and I appreciate this interview opportunity.
+
 ## Tell me a little bit about yourself
 
 - I am an energetic person, an effective communicator, and a quick learner.
@@ -70,16 +74,42 @@
 - Then, I want to develop or participate in some well-known open-source projects to enhance my reputation and technical perspective.
 - The above is a more technical-oriented plan. In terms of work, I want to join a suitable company and grow with the company. While familiarizing myself with the company's business, I want to use my technology to empower the business and develop some valuable products.
 
-What's your expected salary/package?
-Tell me about a time when you overcame a challenge at work
-Tell me about a time when you had a conflict with a co-worker.
-Tell me about a time you met a tight deadline.
-Tell me about a problem you've had getting along with a work associate.
-Talk about a project you are most passionate about, or one where you did your best work.
-What are your career goals
-What is the most challenging aspect of your current project?
-Why do you want to work here?
-What words would your colleagues use to describe you?
-Could you share your top consideration when you look for a job? For example，when you get several offers of these companies, what do you think about most? Salary？Location? and something else?
-What's your ideal working environment?
-Do you have any questions for me?
+## What's your expected salary/package?
+
+## Tell me about a time when you overcame a challenge at work
+
+## Tell me about a time when you had a conflict with a co-worker.
+
+## Tell me about a time you met a tight deadline.
+
+## Tell me about a problem you've had getting along with a work associate.
+
+## Talk about a project you are most passionate about, or one where you did your best work.
+
+## What are your career goals
+
+## What is the most challenging aspect of your current project?
+
+## Why do you want to work here?
+
+## What words would your colleagues use to describe you?
+
+## Could you share your top consideration when you look for a job? For example，when you get several offers of these companies, what do you think about most? Salary？Location? and something else?
+
+## What's your ideal working environment?
+
+## Do you have any questions for me?
+
+- I've done much research online and have a general understanding of what our company does.
+- However, I'm still not clear about the \*\*\*\* and hope you can give me an introduction.
+
+1. What is the day-to-day tasks when I doing this position?
+2. What development method do you use in your team, Agile? Waterfall?
+3. Where (in what capacity) do you see me in 5 years’ time?
+4. Describe the company culture?
+5. What are the plans for next 2-5 years?
+6. What's the team structure?
+
+## Ending
+
+- Thank you for taking the time to interview me. Goodbye.
