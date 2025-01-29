@@ -4,6 +4,8 @@
 
 ### Data Management
 
+#### Introduce this project
+
 #### about 4 person team
 
 - When I joined A company, they gave me a huge task, which was to develop a fintech SaaS platform in a limited time, they needed a demo for our client. I think the challenge is time. So, I ranked the feature list by importance and urgency, then chose the most important features for our MVP scope.

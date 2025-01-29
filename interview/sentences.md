@@ -25,5 +25,3 @@
 | Technically speaking                                                                 | 严格意义上来说                                   |
 | on top of that,                                                                      | 除此之外                                         |
 | I don't remember off the top of my head                                              | 突然想不起来了                                   |
-| one caveat                                                                           | 提醒、警告                                       |
-| brute force                                                                          | 暴力破解                                         |
