@@ -1,5 +1,11 @@
 # Behavior Question
 
+觉得在 hr 的 behavior interview 时候，可以适当的夸张，因为 hr 并没有足够的专业技术去判断你说的内容
+
+只要你说出的“专业名词”足够的高大上，并且足够覆盖 jd 的关键字，就能把 hr 唬住
+
+所以一定要自信，准备好需要的台词，不需要使用雅思考试里的高级词汇，只要能流畅的输出就可以
+
 ## Greetings and Small Talk
 
 - Hello, my name is \*\*\*, and I appreciate this interview opportunity.
