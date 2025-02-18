@@ -49,12 +49,13 @@
 
 ## about gap year
 
-- Last year, I exercised my English skill
+- Last year, I exercised my English skill, and take the IELTS exam.
 - Learning some Deutsch.
 - preparing documents for visa application
 - Went to \*\*\* for a trip in the middle of the year.
-- After that, I mainly focused on learning new skills in Angular and Solidity
-- Also built a blog system with next.js and notion.
+- After that, I mainly focused on update my skill set, I learning new skills in Angular and Solidity.
+- Also built a blog system with next.js.
+- Development a bg emulator by typescript, running on browser.
 
 ## What do you consider your strengths and weaknesses?
 
@@ -75,14 +76,19 @@
 
 ## Where do you see yourself in 5 years?
 
-- My goal is to become a world-class programmer.
+- My goal is to become a famous programmer.
 - I have currently set a 3-5 year plan. This plan has several small goals, such as becoming an expert in the front-end field and a full-stack engineer, as well as learning a system-level programming language, such as Rust, which can enhance my understanding of computer fundamentals.
 - Then, I want to develop or participate in some well-known open-source projects to enhance my reputation and technical perspective.
 - The above is a more technical-oriented plan. In terms of work, I want to join a suitable company and grow with the company. While familiarizing myself with the company's business, I want to use my technology to empower the business and develop some valuable products.
 
 ## What's your expected salary/package?
 
+- Based on my experience and market research, I believe a competitive range for this role in xxx between €XX,XXX – €YY,YYY per year.
+- However, I'm open to discussing details based on the total compensation package and other benefits
+
 ## Tell me about a time when you overcame a challenge at work
+
+- I think the recently challenge at work I overcame is to completed the prototype of the product in limited time at \*\*\* company. At the early period of this company, they urgently to display an demo for their clients.
 
 ## Tell me about a time when you had a conflict with a co-worker.
 
@@ -90,17 +96,26 @@
 
 ## Tell me about a problem you've had getting along with a work associate.
 
+-
+
 ## Talk about a project you are most passionate about, or one where you did your best work.
+
+Last year, I developed an blog system, based on next.js and use notion to CMS, called notion-next-base. I used some Vercel api, so it is better to deployed on Vercel. The customs can create or edit their post on notion, and post on their web side just one click.
 
 ## What are your career goals
 
 ## What is the most challenging aspect of your current project?
+
+I developed a gb emulator base javascript, and the most challenging is debug the PPU component. In this sector, u need to read document carefully, understanding the status machine of render cycle.
 
 ## Why do you want to work here?
 
 ## What words would your colleagues use to describe you?
 
 ## Could you share your top consideration when you look for a job? For example，when you get several offers of these companies, what do you think about most? Salary？Location? and something else?
+
+- First is industry. Compared to traditional industries, I prefer the finance and technology industries.
+- Secondly, I prefer a flat management structure, as it allows the company to operate more efficiently and enables me to fully use my skills.
 
 ## What's your ideal working environment?
 
