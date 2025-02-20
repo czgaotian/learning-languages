@@ -26,6 +26,16 @@ export default defineConfig({
               link: "/interview/qa",
               items: [
                 {
+                  text: "Technical Question",
+                  link: "/interview/qa/technicalQuestion/index.md",
+                  items: [
+                    {
+                      text: "React.js",
+                      link: "/interview/qa/technicalQuestion/react.md",
+                    },
+                  ],
+                },
+                {
                   text: "Behavior Question",
                   link: "/interview/qa/behaviorQuestion.md",
                 },

@@ -40,7 +40,7 @@
 
 - Every sub-app can be deployed and used independently so that it can be customized for different clients just change a config file.
 
-- The sub-apps include real-time market data viewing, asset metadata management, bond price calculator, and more.
+- The sub-apps include real-time market data viewing, trade strategy back-test, asset metadata management, bond price calculator, and more.
 
 #### about 4 person team
 

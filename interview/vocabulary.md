@@ -12,6 +12,8 @@
 | n log n time complexity     | O(nlogin)                           |
 | Memory Overflow             | 内存溢出                            |
 | casting                     | 指类型转换（Type Conversion）的过程 |
+| incremental rendering       | 增量渲染?                           |
+| recursive                   | 递归                                |
 
 ## Oral
 
