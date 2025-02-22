@@ -14,6 +14,7 @@
 | casting                     | 指类型转换（Type Conversion）的过程 |
 | incremental rendering       | 增量渲染?                           |
 | recursive                   | 递归                                |
+| analogous                   | 相似的                              |
 
 ## Oral
 
