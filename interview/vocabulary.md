@@ -14,7 +14,7 @@
 | casting                     | 指类型转换（Type Conversion）的过程 |
 | incremental rendering       | 增量渲染?                           |
 | recursive                   | 递归                                |
-| analogous                   | 相似的                              |
+| spawn a thread              | 创建一个新的线程                    |
 
 ## Oral
 
@@ -24,6 +24,10 @@
 
 ## Common
 
-| word     | 翻译   |
-| -------- | ------ |
-| adjacent | 相邻的 |
+| word          | 音标            | 翻译         |
+| ------------- | --------------- | ------------ |
+| adjacent      | -               | adj. 相邻的  |
+| analogous     | /əˈnæləɡəs/     | adj. 相似的  |
+| paradigm      | /ˈpærədaɪm/     | n. 范例      |
+| encapsulation | -               | n. 包装,封装 |
+| polymorphism  | /ˌpɑlɪ'mɔrfɪzm/ | n. 多态      |
