@@ -25,3 +25,9 @@
 | Technically speaking                                                                 | 严格意义上来说                                   |
 | on top of that,                                                                      | 除此之外                                         |
 | I don't remember off the top of my head                                              | 突然想不起来了                                   |
+
+## Oral
+
+| word          | 翻译   |
+| ------------- | ------ |
+| screwed it up | 搞砸了 |

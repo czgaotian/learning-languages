@@ -8,42 +8,44 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
+      { text: "Express", link: "/express" },
       { text: "Grammar", link: "/grammar" },
       { text: "Interview", link: "/interview" },
       { text: "Deutsch", link: "/Deutsch" },
     ],
 
     sidebar: {
+      "/express/": [
+        {
+          text: "Vocabulary",
+          link: "/express/vocabulary.md",
+        },
+        {
+          text: "Sentences",
+          link: "/express/sentences.md",
+        },
+      ],
       "/interview/": [
         {
           text: "Interview",
           items: [
-            { text: "Punctuation", link: "/interview/punctuation.md" },
-            { text: "Vocabulary", link: "/interview/vocabulary.md" },
-            { text: "Sentences", link: "/interview/sentences.md" },
             {
-              text: "QA",
-              link: "/interview/qa",
+              text: "Technical Question",
+              link: "/interview/technicalQuestion/index.md",
               items: [
                 {
-                  text: "Technical Question",
-                  link: "/interview/qa/technicalQuestion/index.md",
-                  items: [
-                    {
-                      text: "React.js",
-                      link: "/interview/qa/technicalQuestion/react.md",
-                    },
-                  ],
-                },
-                {
-                  text: "Behavior Question",
-                  link: "/interview/qa/behaviorQuestion.md",
-                },
-                {
-                  text: "Project Description",
-                  link: "/interview/qa/projectDescription.md",
+                  text: "React.js",
+                  link: "/interview/technicalQuestion/react.md",
                 },
               ],
+            },
+            {
+              text: "Behavior Question",
+              link: "/interview/behaviorQuestion.md",
+            },
+            {
+              text: "Project Description",
+              link: "/interview/projectDescription.md",
             },
           ],
         },
