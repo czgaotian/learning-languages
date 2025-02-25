@@ -2,13 +2,15 @@
 
 ## Words
 
-| word          | 音标            | 翻译         |
-| ------------- | --------------- | ------------ |
-| adjacent      | -               | adj. 相邻的  |
-| analogous     | /əˈnæləɡəs/     | adj. 相似的  |
-| paradigm      | /ˈpærədaɪm/     | n. 范例      |
-| encapsulation | -               | n. 包装,封装 |
-| polymorphism  | /ˌpɑlɪ'mɔrfɪzm/ | n. 多态      |
+| word          | 音标            | 翻译                 |
+| ------------- | --------------- | -------------------- |
+| adjacent      | -               | adj. 相邻的          |
+| analogous     | /əˈnæləɡəs/     | adj. 相似的          |
+| paradigm      | /ˈpærədaɪm/     | n. 范例              |
+| encapsulation | -               | n. 包装,封装         |
+| polymorphism  | /ˌpɑlɪ'mɔrfɪzm/ | n. 多态              |
+| recursive     | /rɪ'kɝsɪv/      | adj. 回归的,递归的   |
+| symmetric     | /si'metrik/     | adj. 相称性的,均衡的 |
 
 ## Technical Terms
 
