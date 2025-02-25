@@ -27,6 +27,7 @@
 | incremental rendering       | 增量渲染?                           |
 | recursive                   | 递归                                |
 | spawn a thread              | 创建一个新的线程                    |
+| ascending order             | 升序                                |
 
 ## Punctuation
 
