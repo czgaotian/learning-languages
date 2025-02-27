@@ -14,6 +14,9 @@
 | synchronous   | /ˈsɪŋkrənəs/    | adj. 同步的          |
 | concatenate   | /kɒnˈkætɪneɪt/  | adj. 连接的          |
 | etc.          | /ɪtˈsetərə/     | et cetera, 等等      |
+| indices       | /'ɪndɪsiz/      | index 的复数         |
+| consecutive   | /kənˈsekjətɪv/  | adj. 连续的          |
+| sequence      | -               | n. 序列              |
 
 ## Technical Terms
 
