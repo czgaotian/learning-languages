@@ -1,5 +1,7 @@
 # Sentences
 
+## Common Situation
+
 | 表达                                                                                 | 翻译                                             |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------ |
 | I'm sorry. Would you please repeat the question?                                     | 抱歉，您能重复一遍刚刚的问题吗                   |
@@ -28,3 +30,54 @@
 | Yeah! Sounds great, glad to be here.                                                 | -                                                |
 | screwed it up                                                                        | 搞砸了                                           |
 | quite demanding                                                                      | 要求很高                                         |
+
+## Technical Sentences
+
+It can be discussed in two cases.
+
+<details>
+  <summary>翻译</summary>
+  可以分成两种情况讨论
+</details>
+
+the product of a and b
+
+<details>
+  <summary>翻译</summary>
+  a 和 b 的乘积
+</details>
+
+handle edge case
+
+<details>
+  <summary>翻译</summary>
+  处理边界情况
+</details>
+
+We should place elements with smaller values at the front
+
+<details>
+  <summary>翻译</summary>
+  我们应该把数值小的元素放在前面
+</details>
+
+So, in what situations would this happen?
+
+<details>
+  <summary>翻译</summary>
+  所以，什么情况下会发生？
+</details>
+
+So, we can derive a pattern.
+
+<details>
+  <summary>翻译</summary>
+  我们可以得出一个结论。
+</details>
+
+Get the number of elements equal to 1 in the array.
+
+<details>
+  <summary>翻译</summary>
+  获取数组中值为1的元素的数量。
+</details>

@@ -11,6 +11,9 @@
 | polymorphism  | /ˌpɑlɪ'mɔrfɪzm/ | n. 多态              |
 | recursive     | /rɪ'kɝsɪv/      | adj. 回归的,递归的   |
 | symmetric     | /si'metrik/     | adj. 相称性的,均衡的 |
+| synchronous   | /ˈsɪŋkrənəs/    | adj. 同步的          |
+| concatenate   | /kɒnˈkætɪneɪt/  | adj. 连接的          |
+| etc.          | /ɪtˈsetərə/     | et cetera, 等等      |
 
 ## Technical Terms
 
@@ -28,6 +31,7 @@
 | recursive                   | 递归                                |
 | spawn a thread              | 创建一个新的线程                    |
 | ascending order             | 升序                                |
+| dummy node                  | 伪节点                              |
 
 ## Punctuation
 
