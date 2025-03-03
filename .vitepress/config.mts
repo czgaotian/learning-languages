@@ -34,8 +34,34 @@ export default defineConfig({
               link: "/interview/leetcode/index.md",
               items: [
                 {
+                  text: "Binary Search",
+                  link: "/interview/leetcode/binarySearch.md",
+                },
+                {
+                  text: "Bit Calculation",
+                  link: "/interview/leetcode/bitCalculatin.md",
+                },
+                {
                   text: "DataStructure",
                   link: "/interview/leetcode/dataStructure.md",
+                },
+                {
+                  text: "DP",
+                  link: "/interview/leetcode/dp.md",
+                },
+
+                {
+                  text: "Graph",
+                  link: "/interview/leetcode/graph.md",
+                },
+
+                {
+                  text: "Greedy Algorithm",
+                  link: "/interview/leetcode/greedy.md",
+                },
+                {
+                  text: "Grid Graph",
+                  link: "/interview/leetcode/gridGraph.md",
                 },
               ],
             },
