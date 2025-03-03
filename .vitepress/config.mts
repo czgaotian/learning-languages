@@ -30,6 +30,16 @@ export default defineConfig({
           text: "Interview",
           items: [
             {
+              text: "Leetcode",
+              link: "/interview/leetcode/index.md",
+              items: [
+                {
+                  text: "DataStructure",
+                  link: "/interview/leetcode/dataStructure.md",
+                },
+              ],
+            },
+            {
               text: "Technical Question",
               link: "/interview/technicalQuestion/index.md",
               items: [
