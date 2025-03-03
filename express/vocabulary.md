@@ -17,6 +17,9 @@
 | indices       | /'ɪndɪsiz/      | index 的复数         |
 | consecutive   | /kənˈsekjətɪv/  | adj. 连续的          |
 | sequence      | -               | n. 序列              |
+| enumerate     | /ɪˈnuːməreɪt/   | vt. 列举             |
+| hypothetical  | -               | adj. 假设的          |
+| contiguous    | /kənˈtɪɡjuəs/   | adj. 相邻的          |
 
 ## Technical Terms
 
