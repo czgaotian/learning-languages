@@ -38,6 +38,7 @@
 | spawn a thread        | 创建一个新的线程                    |
 | ascending order       | 升序                                |
 | dummy node            | 伪节点                              |
+| assign a to b         | 把 a 赋值给 b                       |
 
 ## Punctuation
 
