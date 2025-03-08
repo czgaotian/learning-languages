@@ -1,9 +1,5 @@
 # 链表、二叉树与回溯
 
-## Backtracking
-
-- If we do not restore the state, when we finish recursing the left subtree and start recursing the right subtree, `cnt` will still contain data from the left subtree.
-
 ## Binary Tree
 
 ### BFS
@@ -15,3 +11,9 @@
 - If the left child exists, put it into the temporary array.
 
 ### DFS
+
+## Backtracking
+
+- If we do not restore the state, when we finish recursing the left subtree and start recursing the right subtree, `cnt` will still contain data from the left subtree.
+
+- We should restore it to the state it was in before the recursion.

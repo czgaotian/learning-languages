@@ -20,6 +20,7 @@
 | enumerate     | /ɪˈnuːməreɪt/   | vt. 列举             |
 | hypothetical  | -               | adj. 假设的          |
 | contiguous    | /kənˈtɪɡjuəs/   | adj. 相邻的          |
+| pivot         | /ˈpɪvət/        | n. 枢轴              |
 
 ## Technical Terms
 
@@ -39,6 +40,7 @@
 | ascending order       | 升序                                |
 | dummy node            | 伪节点                              |
 | assign a to b         | 把 a 赋值给 b                       |
+| Break the tie         | 打破平局                            |
 
 ## Punctuation
 
