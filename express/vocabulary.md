@@ -21,6 +21,7 @@
 | hypothetical  | -               | adj. 假设的          |
 | contiguous    | /kənˈtɪɡjuəs/   | adj. 相邻的          |
 | pivot         | /ˈpɪvət/        | n. 枢轴              |
+| constraint    | -               | n. 强制；限制，约束  |
 
 ## Technical Terms
 
@@ -41,6 +42,8 @@
 | dummy node            | 伪节点                              |
 | assign a to b         | 把 a 赋值给 b                       |
 | Break the tie         | 打破平局                            |
+| ceiling conversion    | 向上取整                            |
+| floor conversion      | 向下取整                            |
 
 ## Punctuation
 
