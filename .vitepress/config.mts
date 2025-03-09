@@ -8,9 +8,9 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
+      { text: "Interview", link: "/interview" },
       { text: "Express", link: "/express" },
       { text: "Grammar", link: "/grammar" },
-      { text: "Interview", link: "/interview" },
       { text: "Deutsch", link: "/Deutsch" },
     ],
 
