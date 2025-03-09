@@ -63,6 +63,26 @@ export default defineConfig({
                   text: "Grid Graph",
                   link: "/interview/leetcode/gridGraph.md",
                 },
+                {
+                  text: "Linked, Binary Tree and Tree",
+                  link: "/interview/leetcode/linked.md",
+                },
+                {
+                  text: "Mathematics Algorithm",
+                  link: "/interview/leetcode/mathematics.md",
+                },
+                {
+                  text: "Sliding Window and Two Pointers",
+                  link: "/interview/leetcode/pointer.md",
+                },
+                {
+                  text: "Monotonic Stack",
+                  link: "/interview/leetcode/stack.md",
+                },
+                {
+                  text: "String",
+                  link: "/interview/leetcode/string.md",
+                },
               ],
             },
             {
@@ -70,8 +90,20 @@ export default defineConfig({
               link: "/interview/technicalQuestion/index.md",
               items: [
                 {
+                  text: "JavaScript",
+                  link: "/interview/technicalQuestion/javascript.md",
+                },
+                {
                   text: "React.js",
                   link: "/interview/technicalQuestion/react.md",
+                },
+                {
+                  text: "Browser",
+                  link: "/interview/technicalQuestion/browser.md",
+                },
+                {
+                  text: "Full Stack",
+                  link: "/interview/technicalQuestion/fullStack.md",
                 },
               ],
             },
