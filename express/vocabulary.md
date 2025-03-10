@@ -22,6 +22,7 @@
 | contiguous    | /kənˈtɪɡjuəs/   | adj. 相邻的          |
 | pivot         | /ˈpɪvət/        | n. 枢轴              |
 | constraint    | -               | n. 强制；限制，约束  |
+| monotonic     | /ˌmɔnə'tɔnik/   | adj. 单调的          |
 
 ## Technical Terms
 
