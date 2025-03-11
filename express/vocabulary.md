@@ -47,6 +47,7 @@
 | floor conversion                          | 向下取整                            |
 | **a to the b-th** / a to the b-th power   | a ^ b                               |
 | a raised to the power of b /a raised to b | a ^ b                               |
+| constant complexity                       | O(1)                                |
 
 ## Punctuation
 
