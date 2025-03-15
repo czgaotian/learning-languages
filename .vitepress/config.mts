@@ -109,7 +109,13 @@ export default defineConfig({
             },
             {
               text: "Behavior Question",
-              link: "/interview/behaviorQuestion.md",
+              link: "/interview/behaviorQuestion/behaviorQuestion.md",
+              items: [
+                {
+                  text: "BQ II",
+                  link: "/interview/behaviorQuestion/BQII.md",
+                },
+              ],
             },
             {
               text: "Project Description",

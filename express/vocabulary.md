@@ -23,6 +23,11 @@
 | pivot         | /ˈpɪvət/        | n. 枢轴              |
 | constraint    | -               | n. 强制；限制，约束  |
 | monotonic     | /ˌmɔnə'tɔnik/   | adj. 单调的          |
+| derived       | -               | adj. 衍生的，派生的  |
+| obstacle      | -               | n. 障碍              |
+| concatenate   | -               | vt. 串联             |
+| vice versa    | -               | 反之亦然             |
+| regard ... as | -               | 把...视为            |
 
 ## Technical Terms
 
@@ -48,7 +53,6 @@
 | **a to the b-th** / a to the b-th power   | a ^ b                               |
 | a raised to the power of b /a raised to b | a ^ b                               |
 | constant complexity                       | O(1)                                |
-| regard ... as                             | 把...视为                           |
 
 ## Punctuation
 
