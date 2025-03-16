@@ -28,6 +28,8 @@
 | concatenate   | -               | vt. 串联             |
 | vice versa    | -               | 反之亦然             |
 | regard ... as | -               | 把...视为            |
+| procedural    | /pro'sidʒərəl/  | adj. 程序上的        |
+| declarative   | /dɪ'klærətɪv/   | adj. 宣言的          |
 
 ## Technical Terms
 
