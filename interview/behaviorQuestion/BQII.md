@@ -1,5 +1,7 @@
 # Another version of BQ
 
+第二版的行为面，只考虑更高频的问题，准备了 3 个小故事
+
 ## Why change + Why relocated
 
 - There are two main reasons why I chose to relocate to [xxx]
@@ -58,7 +60,7 @@ See [Where do you see yourself in 5 years](./behaviorQuestion.md#where-do-you-se
 - **A**:
 
   - I first broke down feature list into smaller, manageable parts and allocated them based on importance and urgency. Choose the most urgent and important features to prioritize development.
-  - After a few weeks of development, I realized that the team wouldn't be able to meet the deadline. I approached my boss to explain the situation and requested additional resources.
+  - After a few weeks of development, I realized that the team wouldn't be able to **meet the deadline**. I approached my boss to explain the situation and requested additional resources.
 
 - **R**: By re-prioritizing the tasks, adding more resources. we were able to complete the MVP on time, and the demo was successfully delivered to the client.
 
@@ -80,6 +82,21 @@ See [Where do you see yourself in 5 years](./behaviorQuestion.md#where-do-you-se
 
 ## advice and optimize the working process
 
+[internal service platform](../projectDescription.md#internal-service-platform)
+
+- **S**: When I was work for [XXX] company, at the end of the month, every employee need to submit an Excel report to HR department, detailing the time spent on each project every day.
+
+- **T**: I want to optimize this process, because everyone can't remember detail time at the end of the month.
+
+- **A**:
+
+  - I developed a web application where employees could log their working hours daily, and the system would automatically generate the required Excel report at the end of the month.
+  - The app included a simple UI for users to review.
+  - I also used chart to visualize the distribution of working hours per day. This way, everyone can better allocate their time
+
+- **R**:
+  - As a result, the time spent on reporting was reduced significantly. The team's efficiency also improved.
+
 ## Previous colleagues or supervisors describe your...
 
 - In [xxx] company, my team leader evaluated me by saying, 'XX can do the work of three people on his own.'
@@ -100,10 +117,22 @@ See [Where do you see yourself in 5 years](./behaviorQuestion.md#where-do-you-se
 
 ## ideal working environment
 
+- My ideal working environment is one where collaboration is encouraged, and innovation is valued.
+
+- I thrive in a team-oriented setting where there is open communication and a willingness to share knowledge.
+
+- I also appreciate flexibility in work hours or remote work options, as it allows me to maintain a healthy work-life balance while staying focused on my goals.
+
 ## How to stay updated on industry trends
+
+- I also participate in online communities like Github, Stack Overflow, and Discord to keep up with discussion around new technologies.
+- Additionally, I also developed some personal project to apply the latest knowledge I have learned.
 
 ## What motivates you in your work
 
 - I am motivated by the opportunity to solve complex problem and create high-quality, user-friendly application.
 
 ## Working in a team environment
+
+- A strong team can achieve much more than an individual
+- I appreciate the opportunity to learn from others while sharing my own expertise.

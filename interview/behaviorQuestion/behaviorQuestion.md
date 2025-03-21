@@ -12,14 +12,15 @@
 
 ## Tell me a little bit about yourself
 
-- I am an energetic person, an effective communicator, and a quick learner.
 - I'm a senior front-end developer with 5 years of experience, specializing in React.js ecosystem.
 - I also use Python for backend.
-- In my most recent role at \*\*\*, I led a 4-person team to develop an institutional-grade financial SaaS platform.
-- I hold a Master's degree in Software Engineering from \*\*\*\*.
-- Software development is my passion.
-- I'm particularly passionate about building high-performance, scalable applications.
-- I usually built some open source project, and put them on github.
+
+- I hold a Master's degree in Software Engineering.
+
+- In my most recent role at [xxx], I led a 4-person team to develop an financial SaaS platform. The main technology stack used in this company includes Vue and React. I also develop some CRUD RESTful APIs by Django.
+
+- In my second recent career in [XXX], I responsible for maintaining a desktop application, developed by Electron.
+
 - I'm currently unemployment and looking for a job.
 - If you have any question, feel free to ask for me.
 
