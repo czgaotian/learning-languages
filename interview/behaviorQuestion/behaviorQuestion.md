@@ -77,8 +77,11 @@
 ## Where do you see yourself in 5 years?
 
 - My goal is to become a famous programmer.
+
 - I have currently set a 3-5 year plan. This plan has several small goals, such as becoming an expert in the front-end field and a full-stack engineer, as well as learning a system-level programming language, such as Rust, which can enhance my understanding of computer fundamentals.
+
 - Then, I want to develop or participate in some well-known open-source projects to enhance my reputation and technical perspective.
+
 - The above is a more technical-oriented plan. In terms of work, I want to join a suitable company and grow with the company. While familiarizing myself with the company's business, I want to use my technology to empower the business and develop some valuable products.
 
 ## What's your expected salary/package?

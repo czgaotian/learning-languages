@@ -30,6 +30,9 @@
 | regard ... as | -               | 把...视为            |
 | procedural    | /pro'sidʒərəl/  | adj. 程序上的        |
 | declarative   | /dɪ'klærətɪv/   | adj. 宣言的          |
+| retrieve      | -               | v. 检索              |
+| optimal       | -               | adj.最佳的           |
+| sequence      | -               | n. 顺序              |
 
 ## Technical Terms
 

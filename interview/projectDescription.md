@@ -48,7 +48,7 @@
 
 - After a few weeks of development, I realized that we would not be able to complete even the MVP on schedule. Therefore, I approached our boss to discuss the situation and requested additional team members for the project.
 
-  - After that, 2 junior frontend developers and a backend developer with basic frontend knowledge joined to our team. So I needed to divide tasks (from larger to smaller) between them and keep track of everyone's progress.
+- After that, 2 junior frontend developers and a backend developer with basic frontend knowledge joined to our team. So I needed to divide tasks (from larger to smaller) between them and keep track of everyone's progress.
 
 #### how to task allocation
 
