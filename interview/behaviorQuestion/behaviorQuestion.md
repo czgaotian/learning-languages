@@ -12,12 +12,22 @@
 
 ## Tell me a little bit about yourself
 
+> Start with your name
+>
+> Give your place information
+>
+> Education short
+>
+> Job experience if any
+>
+> Tell why are u qualified for the job
+
 - I'm a senior front-end developer with 5 years of experience, specializing in React.js ecosystem.
 - I also use Python for backend.
 
 - I hold a Master's degree in Software Engineering.
 
-- In my most recent role at [xxx], I led a 4-person team to develop an financial SaaS platform. The main technology stack used in this company includes Vue and React. I also develop some CRUD RESTful APIs by Django.
+- In my most recent role at [xxx], I led a 4-person team to develop an financial SaaS platform. The main technology stack used in this company includes Vue and React. I also develop some RESTful APIs by Django.
 
 - In my second recent career in [XXX], I responsible for maintaining a desktop application, developed by Electron.
 
@@ -35,6 +45,8 @@
 
 ## why do you want to move to (xx country)?
 
+> Share your reason for job change, Relate to your career goals
+
 - The reason that I'm looking for change is that I feel like now is the time to expand my horizons.
 - I have worked in my current country for quite a long time.
 - I want to go beyond my current role here, explore different avenues, and take up challenging roles.
@@ -42,6 +54,8 @@
 - So, I chose to explore opportunities in the \*\*\* job market.
 
 ## why do you want to leave your current/last company?
+
+> Thanks to previous organization
 
 - (due to COVID-19)
 - The company's performance is poor with no more income, hence our company was decide to dissolve the department.
@@ -62,6 +76,16 @@
 
 ### about weakness
 
+> Straightforward
+>
+> Sensitive
+>
+> Impatient
+>
+> Talkative
+>
+> I cant say no when someone asks for help
+
 - My English is not very good, but I am still practicing and improving my English level.
 - Including listen comprehensible English content and practicing spoken English every day.
 - Therefore, my English will continue to improve, and communication will no longer be a problem.
@@ -76,6 +100,10 @@
 ## Why should we hire you?
 
 ## Where do you see yourself in 5 years?
+
+> Short term goal
+>
+> Long term goal
 
 - My goal is to become a famous programmer.
 
@@ -107,6 +135,8 @@
 Last year, I developed an blog system, based on next.js and use notion to CMS, called notion-next-base. I used some Vercel api, so it is better to deployed on Vercel. The customs can create or edit their post on notion, and post on their web side just one click.
 
 ## What are your career goals
+
+See [Where do you see yourself in 5 years](#where-do-you-see-yourself-in-5-years)
 
 ## What is the most challenging aspect of your current project?
 
