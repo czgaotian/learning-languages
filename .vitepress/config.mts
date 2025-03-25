@@ -30,6 +30,42 @@ export default defineConfig({
           text: "Interview",
           items: [
             {
+              text: "Technical Question",
+              link: "/interview/technicalQuestion/index.md",
+              items: [
+                {
+                  text: "JavaScript",
+                  link: "/interview/technicalQuestion/javascript.md",
+                },
+                {
+                  text: "React.js",
+                  link: "/interview/technicalQuestion/react.md",
+                },
+                {
+                  text: "Browser",
+                  link: "/interview/technicalQuestion/browser.md",
+                },
+                {
+                  text: "Full Stack",
+                  link: "/interview/technicalQuestion/fullStack.md",
+                },
+              ],
+            },
+            {
+              text: "Behavior Question",
+              link: "/interview/behaviorQuestion/behaviorQuestion.md",
+              items: [
+                {
+                  text: "BQ II",
+                  link: "/interview/behaviorQuestion/BQII.md",
+                },
+              ],
+            },
+            {
+              text: "Project Description",
+              link: "/interview/projectDescription.md",
+            },
+            {
               text: "Leetcode",
               link: "/interview/leetcode/index.md",
               items: [
@@ -84,42 +120,6 @@ export default defineConfig({
                   link: "/interview/leetcode/string.md",
                 },
               ],
-            },
-            {
-              text: "Technical Question",
-              link: "/interview/technicalQuestion/index.md",
-              items: [
-                {
-                  text: "JavaScript",
-                  link: "/interview/technicalQuestion/javascript.md",
-                },
-                {
-                  text: "React.js",
-                  link: "/interview/technicalQuestion/react.md",
-                },
-                {
-                  text: "Browser",
-                  link: "/interview/technicalQuestion/browser.md",
-                },
-                {
-                  text: "Full Stack",
-                  link: "/interview/technicalQuestion/fullStack.md",
-                },
-              ],
-            },
-            {
-              text: "Behavior Question",
-              link: "/interview/behaviorQuestion/behaviorQuestion.md",
-              items: [
-                {
-                  text: "BQ II",
-                  link: "/interview/behaviorQuestion/BQII.md",
-                },
-              ],
-            },
-            {
-              text: "Project Description",
-              link: "/interview/projectDescription.md",
             },
           ],
         },
