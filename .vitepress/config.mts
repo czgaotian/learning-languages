@@ -8,7 +8,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Interview", link: "/interview" },
+      { text: "Behavior", link: "/behaviorQuestion" },
+      { text: "Technical", link: "/technicalQuestion" },
       { text: "Express", link: "/express" },
       { text: "Grammar", link: "/grammar" },
       { text: "Deutsch", link: "/Deutsch" },
@@ -25,101 +26,94 @@ export default defineConfig({
           link: "/express/sentences.md",
         },
       ],
-      "/interview/": [
+      "/technicalQuestion/": [
         {
-          text: "Interview",
+          text: "Front-end",
+          link: "/technicalQuestion/frontend",
           items: [
             {
-              text: "Technical Question",
-              link: "/interview/technicalQuestion/index.md",
-              items: [
-                {
-                  text: "JavaScript",
-                  link: "/interview/technicalQuestion/javascript.md",
-                },
-                {
-                  text: "React.js",
-                  link: "/interview/technicalQuestion/react.md",
-                },
-                {
-                  text: "Browser",
-                  link: "/interview/technicalQuestion/browser.md",
-                },
-                {
-                  text: "Full Stack",
-                  link: "/interview/technicalQuestion/fullStack.md",
-                },
-              ],
+              text: "JavaScript",
+              link: "/technicalQuestion/frontend/javascript.md",
             },
             {
-              text: "Behavior Question",
-              link: "/interview/behaviorQuestion/behaviorQuestion.md",
-              items: [
-                {
-                  text: "BQ II",
-                  link: "/interview/behaviorQuestion/BQII.md",
-                },
-              ],
+              text: "React.js",
+              link: "/technicalQuestion/frontend/react.md",
             },
             {
-              text: "Project Description",
-              link: "/interview/projectDescription.md",
+              text: "Browser",
+              link: "/technicalQuestion/frontend/browser.md",
+            },
+          ],
+        },
+        {
+          text: "Project Description",
+          link: "/technicalQuestion/projects",
+        },
+        {
+          text: "Leetcode",
+          link: "/technicalQuestion/leetcode",
+          items: [
+            {
+              text: "Binary Search",
+              link: "/technicalQuestion/leetcode/binarySearch.md",
             },
             {
-              text: "Leetcode",
-              link: "/interview/leetcode/index.md",
-              items: [
-                {
-                  text: "Binary Search",
-                  link: "/interview/leetcode/binarySearch.md",
-                },
-                {
-                  text: "Bit Calculation",
-                  link: "/interview/leetcode/bitCalculatin.md",
-                },
-                {
-                  text: "DataStructure",
-                  link: "/interview/leetcode/dataStructure.md",
-                },
-                {
-                  text: "DP",
-                  link: "/interview/leetcode/dp.md",
-                },
+              text: "Bit Calculation",
+              link: "/technicalQuestion/leetcode/bitCalculatin.md",
+            },
+            {
+              text: "DataStructure",
+              link: "/technicalQuestion/leetcode/dataStructure.md",
+            },
+            {
+              text: "DP",
+              link: "/technicalQuestion/leetcode/dp.md",
+            },
 
-                {
-                  text: "Graph",
-                  link: "/interview/leetcode/graph.md",
-                },
+            {
+              text: "Graph",
+              link: "/technicalQuestion/leetcode/graph.md",
+            },
 
-                {
-                  text: "Greedy Algorithm",
-                  link: "/interview/leetcode/greedy.md",
-                },
-                {
-                  text: "Grid Graph",
-                  link: "/interview/leetcode/gridGraph.md",
-                },
-                {
-                  text: "Linked, Binary Tree and Tree",
-                  link: "/interview/leetcode/linked.md",
-                },
-                {
-                  text: "Mathematics Algorithm",
-                  link: "/interview/leetcode/mathematics.md",
-                },
-                {
-                  text: "Sliding Window and Two Pointers",
-                  link: "/interview/leetcode/pointer.md",
-                },
-                {
-                  text: "Monotonic Stack",
-                  link: "/interview/leetcode/stack.md",
-                },
-                {
-                  text: "String",
-                  link: "/interview/leetcode/string.md",
-                },
-              ],
+            {
+              text: "Greedy Algorithm",
+              link: "/technicalQuestion/leetcode/greedy.md",
+            },
+            {
+              text: "Grid Graph",
+              link: "/technicalQuestion/leetcode/gridGraph.md",
+            },
+            {
+              text: "Linked, Binary Tree and Tree",
+              link: "/technicalQuestion/leetcode/linked.md",
+            },
+            {
+              text: "Mathematics Algorithm",
+              link: "/technicalQuestion/leetcode/mathematics.md",
+            },
+            {
+              text: "Sliding Window and Two Pointers",
+              link: "/technicalQuestion/leetcode/pointer.md",
+            },
+            {
+              text: "Monotonic Stack",
+              link: "/technicalQuestion/leetcode/stack.md",
+            },
+            {
+              text: "String",
+              link: "/technicalQuestion/leetcode/string.md",
+            },
+          ],
+        },
+      ],
+      "/behaviorQuestion/": [
+        {
+          text: "Behavior Question",
+          link: "/behaviorQuestion",
+          items: [
+            {
+              text: "BQ II",
+              link: "/behaviorQuestion/BQII.md",
             },
           ],
         },
@@ -138,8 +132,10 @@ export default defineConfig({
         },
       ],
     },
-
-    socialLinks: [{ icon: "github", link: "https://github.com/czgaotian" }],
+    socialLinks: [
+      { icon: "github", link: "https://github.com/czgaotian" },
+      { icon: "home", link: "https://gaotian.net" },
+    ],
   },
   head: [
     [
