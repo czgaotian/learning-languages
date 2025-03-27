@@ -8,18 +8,9 @@ hero:
   tagline: Good good study, day day up
   actions:
     - theme: brand
-      text: Interview
-      link: /interview
+      text: Behavior Question
+      link: /behaviorQuestion
     - theme: alt
-      text: Grammar
-      link: /Grammar
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      text: Technical Question
+      link: /technicalQuestion
 ---
-

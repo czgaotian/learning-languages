@@ -4,8 +4,12 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Learning English",
   description: "Record of learning English",
+  lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    search: {
+      provider: "local",
+    },
     nav: [
       { text: "Home", link: "/" },
       { text: "Behavior", link: "/behaviorQuestion" },
@@ -14,7 +18,6 @@ export default defineConfig({
       { text: "Grammar", link: "/grammar" },
       { text: "Deutsch", link: "/Deutsch" },
     ],
-
     sidebar: {
       "/express/": [
         {
@@ -132,10 +135,11 @@ export default defineConfig({
         },
       ],
     },
-    socialLinks: [
-      { icon: "github", link: "https://github.com/czgaotian" },
-      { icon: "home", link: "https://gaotian.net" },
-    ],
+    socialLinks: [{ icon: "github", link: "https://github.com/czgaotian" }],
+    footer: {
+      message: "Released under the MIT License.",
+      copyright: "Copyright © 2024-present czgaotian",
+    },
   },
   head: [
     [
