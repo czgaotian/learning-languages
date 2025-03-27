@@ -118,6 +118,10 @@ export default defineConfig({
               text: "BQ II",
               link: "/behaviorQuestion/BQII.md",
             },
+            {
+              text: "BQ grid",
+              link: "/behaviorQuestion/BQgrid.md",
+            },
           ],
         },
       ],

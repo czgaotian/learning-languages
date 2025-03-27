@@ -41,17 +41,17 @@
 
 ## Strength and Weakness
 
-See [What do you consider your strengths and weaknesses](./behaviorQuestion.md#what-do-you-consider-your-strengths-and-weaknesses)
+See [What do you consider your strengths and weaknesses](../behaviorQuestion/index.md.md#what-do-you-consider-your-strengths-and-weaknesses)
 
 ## Long term career goal
 
-See [Where do you see yourself in 5 years](./behaviorQuestion.md#where-do-you-see-yourself-in-5-years)
+See [Where do you see yourself in 5 years](../behaviorQuestion/index.md#where-do-you-see-yourself-in-5-years)
 
 ## Challenging situation
 
 ## Tight deadline
 
-[handle tight deadline](../projectDescription.md#data-management)
+[handle tight deadline](../technicalQuestion/projects/index.md#data-management)
 
 - **S**: When I joined A company, I was given the task of developing a fintech SaaS platform within a very limited time.
 
@@ -82,7 +82,7 @@ See [Where do you see yourself in 5 years](./behaviorQuestion.md#where-do-you-se
 
 ## advice and optimize the working process
 
-[internal service platform](../projectDescription.md#internal-service-platform)
+[internal service platform](../technicalQuestion/projects/index.md#internal-service-platform)
 
 - **S**: When I was work for [XXX] company, at the end of the month, every employee need to submit an Excel report to HR department, detailing the time spent on each project every day.
 
