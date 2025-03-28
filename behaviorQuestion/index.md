@@ -8,7 +8,7 @@
 
 ## Greetings and Small Talk
 
-- Hello, my name is \*\*\*, and I appreciate this interview opportunity.
+- Hello, this is Tian, and I appreciate this interview opportunity.
 
 ## Tell me a little bit about yourself
 
@@ -23,7 +23,6 @@
 > Tell why are u qualified for the job
 
 - I'm a senior front-end developer with 5 years of experience, specializing in React.js ecosystem.
-- I also use Python for backend.
 
 - I hold a Master's degree in Software Engineering.
 

@@ -6,6 +6,10 @@
 
 - If the two pointers have not yet met, we ...
 
+- Enumerate the right endpoints of the array
+
+- Each time the right end of the subarray moves right
+
 ## Sliding Window
 
 - The element at index i enters the window, updating the **[relevant statistics]**. If i < k − 1, repeat the first step.
