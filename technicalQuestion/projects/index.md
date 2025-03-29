@@ -32,7 +32,7 @@
 
 ### Data Management
 
-[handle tight deadline in fin-tech platform](./BQgrid.md#handle-tight-deadline-in-fin-tech-platform)
+[handle tight deadline in fin-tech platform](../../behaviorQuestion/BQgrid.md#handle-tight-deadline-in-fin-tech-platform)
 
 #### Introduce this project
 
@@ -86,4 +86,4 @@
 
 ### internal service platform
 
-[developed internal service platform to optimized work flow](./BQgrid.md#developed-internal-service-platform-to-optimized-work-flow)
+[developed internal service platform to optimized work flow](../../behaviorQuestion/BQgrid.md#developed-internal-service-platform-to-optimized-work-flow)
