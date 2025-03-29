@@ -51,30 +51,11 @@ See [Where do you see yourself in 5 years](../behaviorQuestion/index.md#where-do
 
 ## Tight deadline
 
-[handle tight deadline](../technicalQuestion/projects/index.md#data-management)
-
-- **S**: When I joined A company, I was given the task of developing a fintech SaaS platform within a very limited time.
-
-- **T**: The challenge was to complete the platform's MVP on time, despite the tight deadline. I had to prioritize the most critical features and ensure the team could **handle the workload**.
-
-- **A**:
-
-  - I first broke down feature list into smaller, manageable parts and allocated them based on importance and urgency. Choose the most urgent and important features to prioritize development.
-  - After a few weeks of development, I realized that the team wouldn't be able to **meet the deadline**. I approached my boss to explain the situation and requested additional resources.
-
-- **R**: By re-prioritizing the tasks, adding more resources. we were able to complete the MVP on time, and the demo was successfully delivered to the client.
+[handle tight deadline in fin-tech platform](./BQgrid.md#handle-tight-deadline-in-fin-tech-platform)
 
 ## Handle a situation where you disagreed with your...
 
-- **S**: In a previous project, I had a disagreement with a colleague over the best approach to a technical issue. Which is how to calculate the OHLC bar in market data display module.
-
-- **T**: To avoid delaying the project schedule. we need to quickly find a viable solution.
-
-- **A** So, I initiated a discussion in our team to better understand each other's perspective. And discussed the implementation details
-
-- We evaluated the pros and cons of both approaches, and in the end, we found
-
-- The key to resolving the disagreement was open communication and focusing on the project's goals rather than individual preference.
+[had a conflict with a teammate](./BQgrid.md#had-a-conflict-with-a-teammate)
 
 ## a problem you've had getting along with a work associate
 
@@ -82,20 +63,7 @@ See [Where do you see yourself in 5 years](../behaviorQuestion/index.md#where-do
 
 ## advice and optimize the working process
 
-[internal service platform](../technicalQuestion/projects/index.md#internal-service-platform)
-
-- **S**: When I was work for [XXX] company, at the end of the month, every employee need to submit an Excel report to HR department, detailing the time spent on each project every day.
-
-- **T**: I want to optimize this process, because everyone can't remember detail time at the end of the month.
-
-- **A**:
-
-  - I developed a web application where employees could log their working hours daily, and the system would automatically generate the required Excel report at the end of the month.
-  - The app included a simple UI for users to review.
-  - I also used chart to visualize the distribution of working hours per day. This way, everyone can better allocate their time
-
-- **R**:
-  - As a result, the time spent on reporting was reduced significantly. The team's efficiency also improved.
+[developed internal service platform to optimized work flow](./BQgrid.md#developed-internal-service-platform-to-optimized-work-flow)
 
 ## Previous colleagues or supervisors describe your...
 

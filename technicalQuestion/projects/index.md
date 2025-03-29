@@ -32,6 +32,8 @@
 
 ### Data Management
 
+[handle tight deadline in fin-tech platform](./BQgrid.md#handle-tight-deadline-in-fin-tech-platform)
+
 #### Introduce this project
 
 - This project is a micro-frontend application developed based on single-spa for an integrated financial tool.
@@ -83,3 +85,5 @@
 - We need to display the bid/ask point on chart. But that time, the chart component we used is not supported scatter pot chart. So, I read the source code and Enhanced lightweight-chart from tradingView.
 
 ### internal service platform
+
+[developed internal service platform to optimized work flow](./BQgrid.md#developed-internal-service-platform-to-optimized-work-flow)
