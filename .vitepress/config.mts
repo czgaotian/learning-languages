@@ -10,6 +10,7 @@ export default defineConfig({
     search: {
       provider: "local",
     },
+    logo: "/english.png",
     nav: [
       { text: "Home", link: "/" },
       { text: "Behavior", link: "/behaviorQuestion" },
@@ -152,7 +153,7 @@ export default defineConfig({
         rel: "icon",
         type: "image/png",
         sizes: "32x32",
-        href: "/assets/favicon-32x32.png",
+        href: "/favicon-32x32.png",
       },
     ],
     [
@@ -161,7 +162,7 @@ export default defineConfig({
         rel: "icon",
         type: "image/png",
         sizes: "16x16",
-        href: "/assets/favicon-16x16.png",
+        href: "/favicon-16x16.png",
       },
     ],
     ["link", { rel: "shortcut icon", href: "/assets/favicon.ico" }],

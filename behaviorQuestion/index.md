@@ -59,20 +59,22 @@
 
 > Thanks to previous organization
 
-- (due to COVID-19)
-- The company's performance is poor with no more income, hence our company was decide to dissolve the department.
-- Unfortunately, They no longer have any further requirements for frontend work, only basic bug fixes
-- So, I was forced to leave the company.
+- Due to the impact of COVID-19, my company faced significant financial difficulties, which ultimately led to the dissolution of our department.
+- While this was a challenging situation, I saw it as an opportunity to reflect on my career goals, enhance my skills, and prepare for my next role in a global environment.
 
 ## about gap year
 
-- Last year, I exercised my English skill, and take the IELTS exam.
-- Learning some Deutsch.
-- preparing documents for visa application
-- Went to \*\*\* for a trip in the middle of the year.
-- After that, I mainly focused on update my skill set, I learning new skills in Angular and Solidity.
-- Also built a blog system with next.js.
-- Development a bg emulator by typescript, running on browser.
+> skill enhancement and personal growth
+>
+> Preparation for global job market
+
+- After I planned to enter the global job market, I mainly worked on two aspects.
+
+- During this time, I focused on improving my technical skills, particularly gaining deeper knowledge in [xxx].
+- I developed a personal project - a blog system built with Next.js.
+- These experiences have given me a stronger understanding of complex system design and implementation, making me more confident in **tackling** new challenges.
+
+- I used this time to research local technology trends, job requirements, and improve my English skills.
 
 ## What do you consider your strengths and weaknesses?
 
@@ -88,9 +90,9 @@
 >
 > I cant say no when someone asks for help
 
-- My English is not very good, but I am still practicing and improving my English level.
-- Including listen comprehensible English content and practicing spoken English every day.
-- Therefore, my English will continue to improve, and communication will no longer be a problem.
+- My Germany is not very good, but I am still practicing and improving my Germany level.
+- Including listen comprehensible Germany content and practicing spoken Germany every day.
+- Therefore, my Germany will continue to improve, and communication will no longer be a problem.
 
 ### about advantages
 
@@ -126,7 +128,11 @@
 
 ## Tell me about a time when you had a conflict with a co-worker.
 
+[had a conflict with a teammate](./BQgrid.md#had-a-conflict-with-a-teammate)
+
 ## Tell me about a time you met a tight deadline.
+
+[handle tight deadline in fin-tech platform](./BQgrid.md#handle-tight-deadline-in-fin-tech-platform)
 
 ## Tell me about a problem you've had getting along with a work associate.
 
@@ -154,6 +160,10 @@ I developed a gb emulator base javascript, and the most challenging is debug the
 - Secondly, I prefer a flat management structure, as it allows the company to operate more efficiently and enables me to fully use my skills.
 
 ## What's your ideal working environment?
+
+> they want to know whether their work culture is a right fit for you
+
+-
 
 ## Do you have any questions for me?
 
