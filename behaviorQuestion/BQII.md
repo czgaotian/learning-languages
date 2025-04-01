@@ -49,6 +49,8 @@ See [Where do you see yourself in 5 years](../behaviorQuestion/index.md#where-do
 
 ## Challenging situation
 
+[Optimized light-weight chart](./BQgrid.md#optimized-light-weight-chart)
+
 ## Tight deadline
 
 [handle tight deadline in fin-tech platform](./BQgrid.md#handle-tight-deadline-in-fin-tech-platform)
@@ -67,11 +69,7 @@ See [Where do you see yourself in 5 years](../behaviorQuestion/index.md#where-do
 
 ## Previous colleagues or supervisors describe your...
 
-- In [xxx] company, my team leader evaluated me by saying, 'XX can do the work of three people on his own.'
-
-- I always complete the assigned tasks quickly and with high quality.
-
-- I always **make an effort** to support my team, whether by mentoring junior developers or stepping in to resolve technical challenges.
+[What words would your colleagues use to describe you?](./index.md#what-words-would-your-colleagues-use-to-describe-you)
 
 ## your top consideration when you look for a job
 

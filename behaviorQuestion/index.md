@@ -124,7 +124,7 @@
 
 ## Tell me about a time when you overcame a challenge at work
 
-- I think the recently challenge at work I overcame is to completed the prototype of the product in limited time at \*\*\* company. At the early period of this company, they urgently to display an demo for their clients.
+[Optimized light-weight chart](./BQgrid.md#optimized-light-weight-chart)
 
 ## Tell me about a time when you had a conflict with a co-worker.
 
@@ -153,6 +153,12 @@ I developed a gb emulator base javascript, and the most challenging is debug the
 ## Why do you want to work here?
 
 ## What words would your colleagues use to describe you?
+
+- In [xxx] company, my team leader evaluated me by saying, 'XX can do the work of three people on his own.'
+
+- I always complete the assigned tasks quickly and with high quality.
+
+- I always **make an effort** to support my team, whether by mentoring junior developers or stepping in to resolve technical challenges.
 
 ## Could you share your top consideration when you look for a job? For example，when you get several offers of these companies, what do you think about most? Salary？Location? and something else?
 

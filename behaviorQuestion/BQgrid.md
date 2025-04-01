@@ -56,3 +56,31 @@ Action
 - The key to resolving the disagreement was open communication and focusing on the project's goals rather than individual preference.
 
 Result
+
+## Optimized light-weight chart
+
+Situation
+
+- When I worked in XXX company, there is a project our team planned use light-weight chart to display data.
+- However, the library is not support scatter plot and multi panel rendering, but this two features that are critical to our needs.
+- For example, we would like to overlay trading signal points (buy and sell points) on the K-chart and render multiple data indicators (e.g. MACD, RSI) on different panels to enhance the visualization capabilities.
+
+Task
+
+- so, I need to study the architecture of lightweight-charts to determine whether it can be extended for Scatter Plot and Panel rendering.
+- And evaluate the **technical feasibility**, and assess the difficulty of implementing these features
+- Estimate the **development effort** to provide a basis for team decision-making.
+
+Action
+
+- Researching lightweight-charts source code.
+- To implement the Scatter Plot, I need to customize Series component, because I can reuse some of rendering logic, maybe 3-5 days can complete
+- For multi panel rendering, required modify layout management logic, which may involve significant changes
+
+Result
+
+- The research led the conclusion that both two features can complete.
+- Scatter Plot need normal workload, few days.
+- Multi panel rendering is more difficult, need approximately one or two weeks.
+- Since there was enough time, I developed these two features
+- Finally, Scatter Plot and Panel Rendering are now successfully deployed in production environment.
