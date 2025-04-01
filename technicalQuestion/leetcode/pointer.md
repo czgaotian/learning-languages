@@ -10,6 +10,10 @@
 
 - Each time the right end of the subarray moves right
 
+- If there is a cycle, the faster pointer and slow pointer will go into the cycle.
+
+- Thinking in terms of "relative speed", the slow pointer is not move, and faster pointer is just move one step related slow pointer, so the two pointers definitely meet each other.
+
 ## Sliding Window
 
 - The element at index i enters the window, updating the **[relevant statistics]**. If i < k − 1, repeat the first step.

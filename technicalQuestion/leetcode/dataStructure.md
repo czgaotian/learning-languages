@@ -13,3 +13,7 @@
 - Combine list1 and list2, then sort them in descending order based on list2[i].
 
 - Keep only the k largest elements in the heap
+
+- Insertion into a heap takes O(log k).
+
+- Extracting the min element takes O(log k).
