@@ -17,3 +17,9 @@
 - If we do not restore the state, when we finish recursing the left subtree and start recursing the right subtree, `cnt` will still contain data from the left subtree.
 
 - We should restore it to the state it was in before the recursion.
+
+## Linked List
+
+### Intersection of Linked Lists
+
+- To **account for** situations with no intersection, empty nodes need to be considered as well.

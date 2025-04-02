@@ -26,6 +26,10 @@ export default defineConfig({
           link: "/express/vocabulary.md",
         },
         {
+          text: "Technical Terms",
+          link: "/express/technicalTerms.md",
+        },
+        {
           text: "Sentences",
           link: "/express/sentences.md",
         },

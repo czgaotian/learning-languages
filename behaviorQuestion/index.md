@@ -6,6 +6,12 @@
 
 所以一定要自信，准备好需要的台词，不需要使用雅思考试里的高级词汇，只要能流畅的输出就可以
 
+## Common
+
+如果实在没有对应的经历，就这么回答
+
+- I think I don't actually have this experience but I would love to tell you how I would react in this situation
+
 ## Greetings and Small Talk
 
 - Hello, this is Tian, and I appreciate this interview opportunity.

@@ -11,7 +11,7 @@ The value of `this` keyword depends on how the function is called, not where it 
 - if `this` is used in a `class` `constructor`, the `this` inside the `constructor` function is the newly create object instance too.
 - if a function invoked using `.call()`, `.apply()` or `bind()`, `this` inside the function refers to the object passed as the argument.
 - If a function called as a method, like `obj.method()`, `this` is refers to the object that the function is a property of.
-- If a function is invoked as a free function invocation,
+- If a function is invoked as a **free function invocation**,
   - In non-strict mode, `this` default refer to global context, `window` in browser and `global` in Node.js.
   - In strict mode, `this` is `undefined`.
 - For an arrow function, it follows a different rule, `this` refers to the surrounding scope at the time it is created.

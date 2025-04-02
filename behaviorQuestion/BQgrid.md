@@ -19,6 +19,20 @@ Result
 
 - By re-prioritizing the tasks, adding more resources. we were able to complete the MVP on time, and the demo was successfully delivered to the client.
 
+## Lead and mention
+
+Situation
+
+- When I worked for fin-tech platform, I requested my boss to add another resources, after that, 2 junior developer joined our team.
+
+Task
+
+- My task was to lead a team of 4 frontend developers to deliver the project within 6 month timeframe. This involved not only technical leadership but also coordinating with another department, managing deadline, and ensuring the team **remained motivated and productive**.
+
+Action
+
+-
+
 ## developed internal service platform to optimized work flow
 
 Situation
