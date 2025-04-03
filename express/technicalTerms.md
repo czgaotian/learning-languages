@@ -22,3 +22,7 @@
 | **a to the b-th** / a to the b-th power   | a ^ b                               |
 | a raised to the power of b /a raised to b | a ^ b                               |
 | constant complexity                       | O(1)                                |
+| composite pattern                         | 组合模式                            |
+| Earliest Deadline First (EDF)             |                                     |
+| Rate-monotonic scheduling (RMS)           | 速率单调调度算法                    |
+| Round Robin                               |                                     |

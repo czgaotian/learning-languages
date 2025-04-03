@@ -33,6 +33,7 @@
 ### Data Management
 
 [handle tight deadline in fin-tech platform](../../behaviorQuestion/BQgrid.md#handle-tight-deadline-in-fin-tech-platform)
+[Led a team](../../behaviorQuestion/BQgrid.md#led-a-team)
 
 #### Introduce this project
 

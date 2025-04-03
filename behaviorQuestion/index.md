@@ -14,7 +14,8 @@
 
 ## Greetings and Small Talk
 
-- Hello, this is Tian, and I appreciate this interview opportunity.
+- Hello, nice to meet you, I‘m so excited to have this opportunity.
+-
 
 ## Tell me a little bit about yourself
 
@@ -176,6 +177,11 @@ I developed a gb emulator base javascript, and the most challenging is debug the
 > they want to know whether their work culture is a right fit for you
 
 -
+
+## Are you open to relocate?
+
+- I'm definitely open to relocating to Hamburg if the opportunity is a good fit.
+- I’m flexible and willing to move for the right role and team.
 
 ## Do you have any questions for me?
 

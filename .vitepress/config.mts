@@ -16,8 +16,7 @@ export default defineConfig({
       { text: "Behavior", link: "/behaviorQuestion" },
       { text: "Technical", link: "/technicalQuestion" },
       { text: "Express", link: "/express" },
-      { text: "Grammar", link: "/grammar" },
-      { text: "Deutsch", link: "/Deutsch" },
+      // { text: "Deutsch", link: "/Deutsch" },
     ],
     sidebar: {
       "/express/": [
@@ -130,19 +129,18 @@ export default defineConfig({
           ],
         },
       ],
-      "/grammar/": [],
-      "/Deutsch/": [
-        {
-          text: "Deutsch",
-          items: [
-            {
-              text: "base",
-              link: "/Deutsch/base.md",
-              items: [{ text: "alphabet", link: "/Deutsch/base/alphabet.md" }],
-            },
-          ],
-        },
-      ],
+      // "/Deutsch/": [
+      //   {
+      //     text: "Deutsch",
+      //     items: [
+      //       {
+      //         text: "base",
+      //         link: "/Deutsch/base.md",
+      //         items: [{ text: "alphabet", link: "/Deutsch/base/alphabet.md" }],
+      //       },
+      //     ],
+      //   },
+      // ],
     },
     socialLinks: [{ icon: "github", link: "https://github.com/czgaotian" }],
     footer: {

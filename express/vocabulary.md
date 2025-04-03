@@ -34,6 +34,10 @@
 | optimal       | -               | adj.最佳的           |
 | sequence      | -               | n. 顺序              |
 | convey        |                 | vt. 表达             |
+| empathy       |                 | n. 同感;共鸣         |
+| mediation     | -               | n. 调停              |
+| constraint    | -               | n. 限制              |
+| periodic      | -               | adj. 周期的          |
 
 ## Punctuation
 

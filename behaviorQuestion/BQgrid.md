@@ -19,7 +19,7 @@ Result
 
 - By re-prioritizing the tasks, adding more resources. we were able to complete the MVP on time, and the demo was successfully delivered to the client.
 
-## Lead and mention
+## Led a team
 
 Situation
 
@@ -38,10 +38,11 @@ Action
 Situation
 
 - When I was work for [XXX] company, at the end of the month, every employee need to submit an Excel report to HR department, detailing the time spent on each project every day.
+- Not just me, but many other colleagues also forget to submit this form at the end of the month.
 
 Task
 
-- I want to optimize this process, because everyone can't remember detail time at the end of the month.
+- I want to optimize this process, so I decided to develop a little tool to automatic generate this file and send to human resource department.
 
 Action
 
