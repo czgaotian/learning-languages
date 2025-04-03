@@ -58,7 +58,9 @@ Result
 
 Situation
 
-- In a previous project, I had a disagreement with a colleague over the best approach to a technical issue. Which is how to calculate the OHLC bar in market data display module.
+- In a previous project, I had a disagreement with a colleague over the best approach to a technical issue. Which is where to settle calculate the each OHLC bar in market data display module.
+- I think we need to settle these calculation at server side, because Heavy computations can slow down page performance.
+- But backend developer I collaborate with think that these need to calculate in browser.
 
 Task
 
@@ -67,10 +69,12 @@ Task
 Action
 
 - So, I initiated a discussion in our team to better understand each other's perspective. And discussed the implementation details
-- We evaluated the pros and cons of both approaches, and in the end, we found
-- The key to resolving the disagreement was open communication and focusing on the project's goals rather than individual preference.
+- We evaluated the pros and cons of both approaches, and explain the reason we chose this solution
 
 Result
+
+- I accepted my colleague's solution. Because for the backend, this is indeed an unnecessary operation.
+- I implemented the calculation logic on the frontend and optimized performance using other methods.
 
 ## Optimized light-weight chart
 

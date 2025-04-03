@@ -31,13 +31,11 @@
 
 - I'm a senior front-end developer with 5 years of experience, specializing in React ecosystem. And, I currently live in [XXX].
 
-- My journey in software development is began with self-learning during collage. Upon graduation, I pursued a Master's degree in Software Engineering, which laid a solid foundation in programming and problem-solving skills.
+- I started learning software development on my own in college. After graduating, I pursued a Master's in Software Engineering, which gave me a strong foundation in programming and problem-solving.
 
 - Throughout my career, I have worked with various technologies and programming languages, including JavaScript, Typescript, python and Rust. I have a strong background in developing web applications, and I am particularly passionate about creating user-friendly, efficient, and scalable solutions.
 
 - In my most recent role at [xxx], I led a 4-person team to develop an financial SaaS platform. This project not only exercised my technical skills bu also improved my abilities in teamwork and communication.
-
-- Programming is my passion, so, I always connected with the tech community and keep learning. I also have a interest in computer science, and I am currently working on a personal project that use pure front-end tech to simulated a game boy.
 
 - I am excited about the opportunity to bring my diverse skill set, passion for technology, and collaborative spirit to your team. I look forward to contributing to innovative projects and being a part of the dynamic and forward-thinking environment that your company is known for.
 
