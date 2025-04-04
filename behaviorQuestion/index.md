@@ -48,15 +48,29 @@
 
 ## why are you interested in this position?
 
-- I realized that
+> skill match
+
+- I'm really interested in this job because it matches well with my experience and what I enjoy doing. I have 5 years of experience building frontend applications and over 4 years to using React and TypeScript, and I’m particularly drawn to your use of Redux Toolkit, Cypress, and other modern tools I’m familiar with.
+
+> Interest in company's product
+
+- I also really like that your product is focused on [Company's Region] knowledge graphs and enterprise data. It’s a field I’d love to learn more about and be part of. I would love the opportunity to contribute to such a meaningful product.
+
+> team culture
+
+- Additionally, I really appreciate your collaborative and agile work culture. I'm used to working in agile teams with Kanban, so that fits well with my workflow.
+
+- I value clean code, good UX, and continuous learning — all of which seem to be deeply embedded in your team.
+
+- Overall, this role feels like a great chance for me to grow and contribute to something meaningful.
 
 ## why do you want to move to (xx country)?
 
 > Share your reason for job change, Relate to your career goals
 
 - The reason that I'm looking for change is that I feel like now is the time to expand my horizons.
-- I have worked in my current country for quite a long time.
-- I want to go beyond my current role here, explore different avenues, and take up challenging roles.
+- I’ve gained substantial experience in my current country, but I feel ready to explore new challenges and take on more impactful roles.
+
 - Meanwhile, I'm very attracted to the work-life balance environment in \*\*\*.
 - So, I chose to explore opportunities in the \*\*\* job market.
 
@@ -64,7 +78,10 @@
 
 > Thanks to previous organization
 
-- Due to the impact of COVID-19, my company faced significant financial difficulties, which ultimately led to the dissolution of our department.
+- I'm grateful for my experience at my previous company, I've learned a lot at this company.
+- Due to the impact of COVID-19, the company's performance in market is not good.
+- The company faced significant financial difficulties, so they was decide to dissolve the department.
+- Finally, I was forced to leave last company.
 - While this was a challenging situation, I saw it as an opportunity to reflect on my career goals, enhance my skills, and prepare for my next role in a global environment.
 
 ## about gap year
@@ -73,13 +90,12 @@
 >
 > Preparation for global job market
 
-- After I planned to enter the global job market, I mainly worked on two aspects.
-
-- During this time, I focused on improving my technical skills, particularly gaining deeper knowledge in [xxx].
-- I developed a personal project - a blog system built with Next.js.
+- After leaving my previous role, I took some time to carefully evaluate my **next career move** and ensure I find a position that align my skills and interest.
+- When I planned to enter the global job market, I mainly worked on two aspects.
+- Firstly, during this time, I focused on improving my technical skills, particularly gaining deeper knowledge in [xxx].
+- I developed a personal project - a blog system to exercised my skill in Next.js.
 - These experiences have given me a stronger understanding of complex system design and implementation, making me more confident in **tackling** new challenges.
-
-- I used this time to research local technology trends, job requirements, and improve my English skills.
+- Secondly, I used this time to research local technology trends, job requirements, and improve my English skills.
 
 ## What do you consider your strengths and weaknesses?
 

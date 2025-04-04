@@ -29,7 +29,7 @@
 
 - The company was decide to dissolve the department. So, I was forced to leave last company.
 
-- While it was difficult situation, I used this time to upgrade my skill, and prepare for my next opportunity in global environment.
+- While it was difficult situation, I used this time to upgrade my skill, and prepare for my next opportunity in global job market.
 
 ## Why gap
 
