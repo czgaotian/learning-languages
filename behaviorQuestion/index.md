@@ -111,9 +111,9 @@
 >
 > I cant say no when someone asks for help
 
-- My Germany is not very good, but I am still practicing and improving my Germany level.
-- Including listen comprehensible Germany content and practicing spoken Germany every day.
-- Therefore, my Germany will continue to improve, and communication will no longer be a problem.
+- My German is not very good, but I am still practicing and improving my German level.
+- Including listen comprehensible German content and practicing spoken German every day.
+- Therefore, my German will continue to improve, and communication will no longer be a problem.
 
 ### about advantages
 
@@ -141,6 +141,7 @@
 ## What's your expected salary/package?
 
 - Based on my experience and market research, I believe a competitive range for this role in xxx between €XX,XXX – €YY,YYY per year.
+- I hope to achieve ....
 - However, I'm open to discussing details based on the total compensation package and other benefits
 
 ## Tell me about a time when you overcame a challenge at work

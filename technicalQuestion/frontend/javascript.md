@@ -2,6 +2,15 @@
 
 ## Explain the concept of "hoisting"
 
+Hoisting a Javascript mechanism where variable and function are move to the top of the scope during the compiler phase. Use different keyword behave differently when hoist.
+
+- use `var` to declare variable, the value of the variable is `undefined` if accessed before initialization.
+- use `let` or `const` to declare variable, accessing them results in `ReferenceError` until the actual declaration is encountered.
+- use `var` to declare function, The value of the variable is `undefined` if accessed before initialization.
+- use `function` to declare function, Both declaration and definition are fully hoisted.
+- Class declaration `class` Accessing them results in ReferenceError until the actual declaration is encountered.
+- Import declaration `import` Declarations are hoisted, and side effects of importing the module are executed before the rest of the code.
+
 ## Explain how `this` work in JavaScript
 
 `this` keyword is the dynamic reference of the context in which the function executed.
@@ -17,3 +26,14 @@ The value of `this` keyword depends on how the function is called, not where it 
 - For an arrow function, it follows a different rule, `this` refers to the surrounding scope at the time it is created.
 
 ## What is the event loop in JavaScript runtimes?
+
+## First order function vs higher order function
+
+higher order function: Takes one or more functions as arguments and return a function as its result
+
+```javascript
+const numbers = [1, 2, 3, 4];
+const doubled = numbers.map((num) => num * 2); // map takes a function
+```
+
+First order function: does not take another function as an argument and does not return a function.
