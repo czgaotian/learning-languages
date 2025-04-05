@@ -1,5 +1,7 @@
 # Technical Terms
 
+## Common
+
 | word                                      | 翻译                                |
 | ----------------------------------------- | ----------------------------------- |
 | cpu intensive                             | CPU 密集型                          |
@@ -26,3 +28,6 @@
 | Earliest Deadline First (EDF)             |                                     |
 | Rate-monotonic scheduling (RMS)           | 速率单调调度算法                    |
 | Round Robin                               |                                     |
+| simple function invocation                | 简单函数调用                        |
+| method invocation                         | 方法调用                            |
+| hoisting                                  | 变量提升                            |
