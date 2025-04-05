@@ -1,5 +1,9 @@
 # 链表、二叉树与回溯
 
+## Linked List
+
+- To store the result linked list, we use a dummy node.
+
 ## Binary Tree
 
 ### BFS
