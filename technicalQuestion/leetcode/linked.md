@@ -3,6 +3,8 @@
 ## Linked List
 
 - To store the result linked list, we use a dummy node.
+- The pointer q points to the node before the one to be deleted.
+- Since the head node might be deleted, a dummy node is used to simplify the code.
 
 ## Binary Tree
 

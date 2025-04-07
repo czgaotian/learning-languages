@@ -38,6 +38,8 @@
 | mediation     | -               | n. 调停              |
 | constraint    | -               | n. 限制              |
 | periodic      | -               | adj. 周期的          |
+| intuitive     | -               | adj. 有直觉力的      |
+| verbose       | -               | adj. 冗长的          |
 
 ## Punctuation
 

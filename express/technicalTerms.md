@@ -33,3 +33,4 @@
 | hoisting                                  | 变量提升                            |
 | carry                                     | 进位                                |
 | the rest                                  | 剩下的                              |
+| prototypical inheritance                  | 原型继承                            |
