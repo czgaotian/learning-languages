@@ -1,11 +1,5 @@
 # 链表、二叉树与回溯
 
-## Linked List
-
-- To store the result linked list, we use a dummy node.
-- The pointer q points to the node before the one to be deleted.
-- Since the head node might be deleted, a dummy node is used to simplify the code.
-
 ## Binary Tree
 
 ### BFS
@@ -26,6 +20,22 @@
 
 ## Linked List
 
+- To store the result linked list, we use a dummy node.
+- The pointer q points to the node before the one to be deleted.
+- Since the head node might be deleted, a dummy node is used to simplify the code.
+
 ### Intersection of Linked Lists
 
 - To **account for** situations with no intersection, empty nodes need to be considered as well.
+
+## Backtrace
+
+### Permutation
+
+- We can calculate the time complexity by multiplying the number of leaf nodes by the length of the path from the root to each leaf.
+- All permutations of choosing 3 numbers from 3 numbers
+- All combinations of 2 numbers from 3
+- Choosing 1 number out of 3
+- This is how the natural constant e is defined.
+
+### Combination

@@ -34,3 +34,6 @@
 | carry                                     | 进位                                |
 | the rest                                  | 剩下的                              |
 | prototypical inheritance                  | 原型继承                            |
+| divide and conquer                        | 分治                                |
+| semantic html                             | 语义标签                            |
+| n factorial                               | n!                                  |

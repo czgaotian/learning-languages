@@ -40,6 +40,7 @@
 | periodic      | -               | adj. 周期的          |
 | intuitive     | -               | adj. 有直觉力的      |
 | verbose       | -               | adj. 冗长的          |
+| permutations  | -               | n. 排列              |
 
 ## Punctuation
 
