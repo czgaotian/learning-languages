@@ -33,45 +33,29 @@
 ### Data Management
 
 [handle tight deadline in fin-tech platform](../../behaviorQuestion/BQgrid.md#handle-tight-deadline-in-fin-tech-platform)
-[Led a team](../../behaviorQuestion/BQgrid.md#led-a-team)
 
 #### Introduce this project
 
 - This project is a micro-frontend application developed based on single-spa for an integrated financial tool.
-
 - The base app and each children’s app are developed using React, some sub-applications are developed by Vue.
-
 - Every sub-app can be deployed and used independently so that it can be customized for different clients just change a config file.
-
 - The sub-apps include real-time market data viewing, trade strategy back-test, asset metadata management, bond price calculator, and more.
+
+#### How to use Vue
+
+- In general, I use Vue to build modular, component-based applications.
+- I start by setting up the project using Vite.
+- Almost component are created with Composition API - I also familiar with Option API, I worked in Option API at many projects.
+- reactively update the DOM using `v-bind` and `v-on`, and handle conditional rendering with directives like `v-if` and `v-for`.
+- I'm also confident using Vue with tools like Pinia or Vuex for state management, Vue Router for navigation, and Tailwind CSS or scoped styles for UI consistency.
 
 #### about 4 person team
 
-- When I joined A company, they gave me a huge task, which was to develop a fintech SaaS platform in a limited time, they needed a demo for our client. I think the challenge is time. So, I ranked the feature list by importance and urgency, then chose the most important features for our MVP scope.
-
-- After a few weeks of development, I realized that we would not be able to complete even the MVP on schedule. Therefore, I approached our boss to discuss the situation and requested additional team members for the project.
-
-- After that, 2 junior frontend developers and a backend developer with basic frontend knowledge joined to our team. So I needed to divide tasks (from larger to smaller) between them and keep track of everyone's progress.
-
-#### how to task allocation
-
-- I assess the urgency and impact of each task, then focus on the high-priority items first.
-
-- I also break down larger tasks into smaller, manageable parts and set clear milestones to track progress.
-
-#### component library
+[Led a team](../../behaviorQuestion/BQgrid.md#led-a-team)
 
 #### about SharedWorker in real-time data viewing
 
-- In the 'real-time data viewing’ module, to receive millisecond-level data sent by the backend.
-
-- Need handle in frontend, classify and process the data. like, calculate bar about a period time in candleStick chart, category the bid and ask request.
-
-- Since the data arrives quickly, if too much data is processed on the page, it will cause the page to lag.
-
-- I used a SharedWorker to create a separate thread for unified processing and throttled the data before returning it.
-
-- In the main thread, I used requestAnimationFrame to trigger data changes, which made the previously laggy page smooth.
+[Use Shared-Worker to optimized chart rendering](./projectGrid.md#use-shared-worker-to-optimized-chart-rendering)
 
 #### DevOps
 
@@ -88,3 +72,9 @@
 ### internal service platform
 
 [developed internal service platform to optimized work flow](../../behaviorQuestion/BQgrid.md#developed-internal-service-platform-to-optimized-work-flow)
+
+### Trans Js to Ts
+
+- At QuantInfo, I led a migration from JavaScript to TypeScript for the front-end codebase.
+- I began by evaluating the complexity and dependencies of the existing project, then designed a gradual migration strategy to minimize disruption.
+- This included setting up strict tsconfig rules, converting key modules to TypeScript, and creating custom type definitions for third-party libraries that lacked official typings.

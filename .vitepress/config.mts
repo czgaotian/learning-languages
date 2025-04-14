@@ -43,6 +43,10 @@ export default defineConfig({
               link: "/technicalQuestion/frontend/javascript.md",
             },
             {
+              text: "CSS",
+              link: "/technicalQuestion/frontend/css.md",
+            },
+            {
               text: "React.js",
               link: "/technicalQuestion/frontend/react.md",
             },
@@ -55,6 +59,12 @@ export default defineConfig({
         {
           text: "Project Description",
           link: "/technicalQuestion/projects",
+          items: [
+            {
+              text: "Project Grid",
+              link: "/technicalQuestion/projects/projectGrid.md",
+            },
+          ],
         },
         {
           text: "Leetcode",

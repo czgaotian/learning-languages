@@ -41,6 +41,7 @@
 | intuitive     | -               | adj. 有直觉力的      |
 | verbose       | -               | adj. 冗长的          |
 | permutations  | -               | n. 排列              |
+| disruption    |                 | n. 中断              |
 
 ## Punctuation
 

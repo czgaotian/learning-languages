@@ -64,6 +64,8 @@
 
 - Overall, this role feels like a great chance for me to grow and contribute to something meaningful.
 
+- I’m fascinated by the intersection of software and hardware, and [XXX]'s mission to combine AI with robotics aligns perfectly with that interest. I enjoy working on technical challenges that have a tangible impact, and developing a web-based programming interface for robots sounds both challenging and exciting. The opportunity to work on-site with a multidisciplinary team also appeals to me, especially in a fast-growing, international environment.
+
 ## why do you want to move to (xx country)?
 
 > Share your reason for job change, Relate to your career goals

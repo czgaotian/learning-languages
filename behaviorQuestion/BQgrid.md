@@ -12,8 +12,10 @@ Task
 
 Action
 
-- I first broke down feature list into smaller, manageable parts and allocated them based on importance and urgency. Choose the most urgent and important features to prioritize development.
-- After a few weeks of development, I realized that the team wouldn't be able to **meet the deadline**. I approached my boss to explain the situation and requested additional resources.
+- I first broke down feature list into smaller, manageable parts and allocated them based on importance and urgency.
+- Than communication with pm team, to verified the most important feature, choose these features to prioritize development.
+- Based on my estimation, I think it's difficult to complete the task within the given timeframe. I've reported this to my boss and leader, and they told me to start development and see how it goes.
+- After a few weeks of development, I realized that the team wouldn't be able to **meet the deadline**. I **approached** my boss to explain the situation and requested additional resources.
 
 Result
 
