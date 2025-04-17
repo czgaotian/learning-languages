@@ -37,3 +37,5 @@
 | divide and conquer                        | 分治                                |
 | semantic html                             | 语义标签                            |
 | n factorial                               | n!                                  |
+| primitive                                 | 原始类型                            |
+| Temporal Dead Zone                        | 暂时性死区                          |

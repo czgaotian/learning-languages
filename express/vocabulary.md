@@ -42,6 +42,11 @@
 | verbose       | -               | adj. 冗长的          |
 | permutations  | -               | n. 排列              |
 | disruption    |                 | n. 中断              |
+| referral      | /rɪ'fɜːr(ə)l/   | n. 转交              |
+| vouch         | /vaʊtʃ/         | vt. 担保             |
+| inspiration   | /ˌɪnspəˈreɪʃn/  | n. 维持;             |
+| interfere     |                 | vi. 干预             |
+| inclination   | /'ɪnklə'neʃən/  | 倾向                 |
 
 ## Punctuation
 
