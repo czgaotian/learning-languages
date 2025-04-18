@@ -39,3 +39,4 @@
 | n factorial                               | n!                                  |
 | primitive                                 | 原始类型                            |
 | Temporal Dead Zone                        | 暂时性死区                          |
+| pseudo code                               | 伪代码                              |

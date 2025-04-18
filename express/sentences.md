@@ -31,3 +31,4 @@
 | screwed it up                                                                        | 搞砸了                                           |
 | quite demanding                                                                      | 要求很高                                         |
 | I think this should be fine.                                                         | 我觉得这样就可以了                               |
+| get rid of                                                                           | 去掉...                                          |
