@@ -49,7 +49,11 @@
 | inclination   | /'ɪnklə'neʃən/  | 倾向                 |      |
 | corresponding |                 | adj. 相当的, 符合的  |      |
 | hindsight     |                 | /'haɪndsaɪt/         |      |
-| perimeter     |                 | n. 周边              |
+| perimeter     |                 | n. 周边              |      |
+| terminology   |                 | n. 专业术语          |      |
+| decent        |                 | adj. 得体的          |      |
+| competent     |                 | adj. 有能力的        |      |
+| granular      |                 | adj. 颗粒状的        |      |
 
 ## Punctuation
 

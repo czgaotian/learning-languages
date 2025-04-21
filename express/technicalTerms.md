@@ -40,3 +40,5 @@
 | primitive                                 | 原始类型                            |
 | Temporal Dead Zone                        | 暂时性死区                          |
 | pseudo code                               | 伪代码                              |
+| military time                             | 24 小时制                           |
+| interpreted programming language          | 解释型编程语言                      |
