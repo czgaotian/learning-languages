@@ -48,12 +48,15 @@
 | interfere     |                 | vi. 干预             |      |
 | inclination   | /'ɪnklə'neʃən/  | 倾向                 |      |
 | corresponding |                 | adj. 相当的, 符合的  |      |
-| hindsight     |                 | /'haɪndsaɪt/         |      |
+| hindsight     | /'haɪndsaɪt/    | n. 事后的觉悟        |      |
 | perimeter     |                 | n. 周边              |      |
 | terminology   |                 | n. 专业术语          |      |
-| decent        |                 | adj. 得体的          |      |
+| decent        |                 | adj. 得体的          | 2    |
 | competent     |                 | adj. 有能力的        |      |
 | granular      |                 | adj. 颗粒状的        |      |
+| relevant      |                 | adj. 有关的          |      |
+| pseudo        |                 | adj. 假的            | 2    |
+| assessment    |                 | n. 评估              |      |
 
 ## Punctuation
 
