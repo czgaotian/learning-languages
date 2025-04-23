@@ -57,6 +57,7 @@
 | relevant      |                 | adj. 有关的          |      |
 | pseudo        |                 | adj. 假的            | 2    |
 | assessment    |                 | n. 评估              |      |
+| condense      |                 | v. 浓缩              |      |
 
 ## Punctuation
 
