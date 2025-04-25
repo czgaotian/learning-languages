@@ -58,6 +58,11 @@
 | pseudo        |                 | adj. 假的            | 2    |
 | assessment    |                 | n. 评估              |      |
 | condense      |                 | v. 浓缩              |      |
+| slope         |                 | n. 斜率              |      |
+| segment       |                 | v. 分割              |      |
+| equivalent    |                 | adj. 相等的          |      |
+| squiggle      |                 | n. 波浪线            |      |
+| sufficient    |                 | adj.足够的           |      |
 
 ## Punctuation
 

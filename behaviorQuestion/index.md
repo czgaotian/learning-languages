@@ -19,6 +19,18 @@
 
 ## Tell me a little bit about yourself
 
+### Middle Part
+
+use PST structure
+
+P -> position
+
+S -> success,strength
+
+T -> transition, means how your position develop, how it is change over time
+
+### Conclusion
+
 > Start with your name
 >
 > Give your place information
