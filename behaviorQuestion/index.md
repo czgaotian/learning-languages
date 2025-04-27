@@ -45,13 +45,17 @@ T -> transition, means how your position develop, how it is change over time
 
 - I started learning software development on my own in college. After graduating, I pursued a Master's in Software Engineering, which gave me a strong foundation in programming and problem-solving.
 
-- Throughout my career, I have worked with various technologies and programming languages, including JavaScript, Typescript, python and Rust. I have a strong background in developing web applications, and I am particularly passionate about creating user-friendly, efficient, and scalable solutions.
+- In [XXX], I'm responsible for development and maintenance of the compony's main projects. The proudest thing I have done is I used my free time to design and implement an internal tools for colleagues in development team to improve our efficiency in daily work. And, this tool is well-received by my teammates.
 
-- In my most recent role at [xxx], I led a 4-person team to develop an financial SaaS platform. This project not only exercised my technical skills bu also improved my abilities in teamwork and communication.
+- In my most recent role at [xxx], I led a frontend team of four to develop a financial application within 6 months. This project generated 200,000 RMB in a sale.
 
-- I am excited about the opportunity to bring my diverse skill set, passion for technology, and collaborative spirit to your team. I look forward to contributing to innovative projects and being a part of the dynamic and forward-thinking environment that your company is known for.
+- These experience not only exercised my technical skills bu also improved my abilities in teamwork and communication.
 
-- If you have any question, feel free to ask for me.
+- I am excited about the opportunity to bring my diverse skill set, passion for technology, and collaborative spirit to your team.
+
+- I look forward to contributing to innovative projects
+
+- Being a part of the dynamic and forward-thinking environment that your company is known for.
 
 ## how did you hear about the position (how did you find this job opening)
 
@@ -92,10 +96,10 @@ T -> transition, means how your position develop, how it is change over time
 
 > Thanks to previous organization
 
-- I'm grateful for my experience at my previous company, I've learned a lot at this company.
-- Due to the impact of COVID-19, the company's performance in market is not good.
-- The company faced significant financial difficulties, so they was decide to dissolve the department.
-- Finally, I was forced to leave last company.
+- Due to the impact of COVID-19, the company's market performance was affected.
+- The company faced significant financial difficulties, which led to the decision to dissolve the department.
+- As a result, I was unfortunately forced to leave my last company.
+- I’m grateful for my experience there, as I learned a lot during my time at the company
 - While this was a challenging situation, I saw it as an opportunity to reflect on my career goals, enhance my skills, and prepare for my next role in a global environment.
 
 ## about gap year
@@ -104,12 +108,18 @@ T -> transition, means how your position develop, how it is change over time
 >
 > Preparation for global job market
 
-- After leaving my previous role, I took some time to carefully evaluate my **next career move** and ensure I find a position that align my skills and interest.
-- When I planned to enter the global job market, I mainly worked on two aspects.
+- After leaving my previous role, I took some time to carefully evaluate my **next career move**
+- To ensure I find a position that align my skills and interest.
+- In order to face new challenges I had never encountered before, I decided to enter the global job market.
+- Therefore, I mainly worked on two aspects.
 - Firstly, during this time, I focused on improving my technical skills, particularly gaining deeper knowledge in [xxx].
-- I developed a personal project - a blog system to exercised my skill in Next.js.
-- These experiences have given me a stronger understanding of complex system design and implementation, making me more confident in **tackling** new challenges.
-- Secondly, I used this time to research local technology trends, job requirements, and improve my English skills.
+- I developed some personal project ,such as, a blog system built with next.
+- These experiences have given me a stronger understanding of complex system design.
+
+- Secondly, I used this time to research global technology trend and government policy in different countries.
+- I decided to go to [xxx], not only because I really like [xxx] culture since high school, but also because my skill set is really aligns well with the current shortage in the [xxx] workforce.
+
+- Then, I took some time to prepare documents to apply for the Opportunity card visa.
 
 ## What do you consider your strengths and weaknesses?
 
