@@ -45,7 +45,7 @@ T -> transition, means how your position develop, how it is change over time
 
 - I started learning software development on my own in college. After graduating, I pursued a Master's in Software Engineering, which gave me a strong foundation in programming and problem-solving.
 
-- In [XXX], I'm responsible for development and maintenance of the compony's main projects. The proudest thing I have done is I used my free time to design and implement an internal tools for colleagues in development team to improve our efficiency in daily work. And, this tool is well-received by my teammates.
+- In [XXX], I'm responsible for development and maintenance of the compony's main projects. The proudest thing I have done is I used my free time to design and implement an internal tools for our team to improve efficiency in daily work by scripting manual duplicate operate.
 
 - In my most recent role at [xxx], I led a frontend team of four to develop a financial application within 6 months. This project generated 200,000 RMB in a sale.
 
@@ -53,7 +53,7 @@ T -> transition, means how your position develop, how it is change over time
 
 - I am excited about the opportunity to bring my diverse skill set, passion for technology, and collaborative spirit to your team.
 
-- I look forward to contributing to innovative projects
+- I look forward to contributing to innovative projects.
 
 - Being a part of the dynamic and forward-thinking environment that your company is known for.
 
@@ -108,9 +108,9 @@ T -> transition, means how your position develop, how it is change over time
 >
 > Preparation for global job market
 
-- After leaving my previous role, I took some time to carefully evaluate my **next career move**
-- To ensure I find a position that align my skills and interest.
+- After leaving my previous role, I took some time to carefully evaluate my **next career move**, to ensure I find a position that align my skills and interest.
 - In order to face new challenges I had never encountered before, I decided to enter the global job market.
+
 - Therefore, I mainly worked on two aspects.
 - Firstly, during this time, I focused on improving my technical skills, particularly gaining deeper knowledge in [xxx].
 - I developed some personal project ,such as, a blog system built with next.
@@ -237,3 +237,11 @@ I developed a gb emulator base javascript, and the most challenging is debug the
 ## Ending
 
 - Thank you for taking the time to interview me. Goodbye.
+
+## Other
+
+### Education
+
+- My degree was obtained through a part-time education program.
+- I worked on weekdays and attended classes on weekends.
+- Upon graduation, I received both a diploma and a degree certificate.

@@ -23,6 +23,8 @@ Result
 
 ## Led a team
 
+traits: teamwork, leadership
+
 Situation
 
 - When I worked for fin-tech platform, I requested my boss to add another resources, after that, 2 junior developer joined our team.
@@ -36,6 +38,8 @@ Action
 -
 
 ## developed internal service platform to optimized work flow
+
+traits: teamwork, resilience, influencing
 
 Situation
 
@@ -57,6 +61,8 @@ Result
 - As a result, the time spent on reporting was reduced significantly. The team's efficiency also improved.
 
 ## had a conflict with a teammate
+
+traits: teamwork,
 
 Situation
 
@@ -80,28 +86,33 @@ Result
 
 ## Optimized light-weight chart
 
+traits: resilience, influencing, leadership
+
 Situation
 
-- When I worked in XXX company, there is a project our team planned use light-weight chart to display data.
-- However, the library is not support scatter plot and multi panel rendering, but this two features that are critical to our needs.
-- For example, we would like to overlay trading signal points (buy and sell points) on the K-chart and render multiple data indicators (e.g. MACD, RSI) on different panels to enhance the visualization capabilities.
+- Display huge volume of data in chart
+- Light-weight chart is performance good but not support scatter plot
+- Scatter plot is critical feature to our needs.
+<!-- - For example, we would like to overlay trading signal points (buy and sell points) on the K-chart -->
 
 Task
 
-- so, I need to study the architecture of lightweight-charts to determine whether it can be extended for Scatter Plot and Panel rendering.
-- And evaluate the **technical feasibility**, and assess the difficulty of implementing these features
-- Estimate the **development effort** to provide a basis for team decision-making.
+- Need to study the architecture of lightweight-charts
+- Evaluate the **technical feasibility**
+- Assess the difficulty of implementing this feature.
+- Estimate the **development effort**
+- Provide a basis for team decision-making.
 
 Action
 
 - Researching lightweight-charts source code.
-- To implement the Scatter Plot, I need to customize Series component, because I can reuse some of rendering logic, maybe 3-5 days can complete
-- For multi panel rendering, required modify layout management logic, which may involve significant changes
+- To implement the Scatter Plot, I need to customize Series component
+- because I can reuse some of rendering logic, maybe 1-2 weeks can complete
+- Scheduled a meeting with my team to explain the implementation plan and the manpower requirements.
 
 Result
 
-- The research led the conclusion that both two features can complete.
-- Scatter Plot need normal workload, few days.
-- Multi panel rendering is more difficult, need approximately one or two weeks.
-- Since there was enough time, I developed these two features
-- Finally, Scatter Plot and Panel Rendering are now successfully deployed in production environment.
+- With a clear plan and sufficient time, I successfully implemented scatter plot support.
+- Finally, Scatter Plot are successfully deployed in production environment.
+- This effort empowered the team to deliver better data visualizations
+- Improved our overall product quality.
