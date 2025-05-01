@@ -65,6 +65,9 @@
 
 ### Back-test desktop
 
+- desktop application built with Electron
+- use `cp` to running python code, interact with python process
+
 ### Back-test web
 
 - We need to display the bid/ask point on chart. But that time, the chart component we used is not supported scatter pot chart. So, I read the source code and Enhanced lightweight-chart from tradingView.
