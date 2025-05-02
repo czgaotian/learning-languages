@@ -28,10 +28,6 @@ export default defineConfig({
           text: "Technical Terms",
           link: "/express/technicalTerms.md",
         },
-        {
-          text: "Sentences",
-          link: "/express/sentences.md",
-        },
       ],
       "/technicalQuestion/": [
         {

@@ -30,6 +30,14 @@
 
 ## Company A
 
+**Q: When you were assigned a major task or project, did you have full autonomy to decide how to achieve the goal, or were you given specific requirements to follow? And how did you handle that in practice?**
+
+A: Yes, in the startup I worked at, it was definitely more goal-oriented. Usually, I was given a clear objective — for example, to build and deliver a working MVP for a new SaaS platform — but how to achieve that was entirely up to me. I had full ownership over the technical decisions, the architecture, and the development process.
+
+This gave me a lot of flexibility, but also a lot of responsibility. I would break the project down into smaller tasks, assign parts to junior developers on the team, and make sure we were on track with both progress and quality.
+
+In general, I had a lot of autonomy, and I really enjoyed that way of working."
+
 ### Data Management
 
 [handle tight deadline in fin-tech platform](../../behaviorQuestion/BQgrid.md#handle-tight-deadline-in-fin-tech-platform)

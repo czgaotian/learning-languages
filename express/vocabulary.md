@@ -63,6 +63,7 @@
 | equivalent    |                 | adj. 相等的          |      |
 | squiggle      |                 | n. 波浪线            |      |
 | sufficient    |                 | adj.足够的           |      |
+| autonomy      |                 | n. 自治              |      |
 
 ## Punctuation
 
