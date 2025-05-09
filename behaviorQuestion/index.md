@@ -6,6 +6,10 @@
 
 所以一定要自信，准备好需要的台词，不需要使用雅思考试里的高级词汇，只要能流畅的输出就可以
 
+一般的面试流程
+
+Recruiter video call → Hiring Manager Call → Coding Task → Technical Interview → Meeting the team
+
 ## Common
 
 如果实在没有对应的经历，就这么回答
@@ -63,6 +67,9 @@ T -> transition, means how your position develop, how it is change over time
 - The job description perfectly matched my skills and career goals, so I was immediately interested.
 
 ## why are you interested in this position?
+
+> Tip
+> Tell the interviewer you are seeking long term employment with a position.
 
 > skill match
 
