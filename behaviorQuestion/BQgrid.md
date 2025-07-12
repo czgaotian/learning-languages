@@ -43,7 +43,7 @@ traits: teamwork, resilience, influencing
 
 Situation
 
-- When I was work for [XXX] company, at the end of the month, every employee need to submit an Excel report to HR department, detailing the time spent on each project every day.
+- When I was work for [XXX] company, at the end of the month, every employee need to submit an Excel report to HR department, showing the time spent on each project every day.
 - Not just me, but many other colleagues also forget to submit this form at the end of the month.
 
 Task
