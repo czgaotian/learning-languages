@@ -40,7 +40,7 @@ In general, I had a lot of autonomy, and I really enjoyed that way of working."
 ### Agile cross function team
 
 - At [Company], the frontend team was part of a cross-functional squad including designers, pm, backend devs and QA.
-- We worked 2 week sprint using Jira to track issues.
+- We worked 2 week sprint using Jira Kanban to track issues.
 - I joined the daily stand-up meeting to align with everyone's progress and check the issue they facing need to coordination.
 - We also have start meeting to confirm the goal of this sprint.
 - And end meeting to conclusion the thing we do in this sprint. Do we finish the goal, is there any
@@ -75,6 +75,8 @@ to calculate the price of bond base on yield curve and bond metadata.
 
 #### about 4 person team
 
+-
+
 [Led a team](../../behaviorQuestion/BQgrid.md#led-a-team)
 
 #### about SharedWorker in real-time data viewing
@@ -99,6 +101,14 @@ to calculate the price of bond base on yield curve and bond metadata.
 ### internal service platform
 
 [developed internal service platform to optimized work flow](../../behaviorQuestion/BQgrid.md#developed-internal-service-platform-to-optimized-work-flow)
+
+- need submit excel file
+- every colleague forgot about this
+- want optimize
+- implement an internal application
+  - log daily working time
+  - add another function
+- reduce significantly
 
 ### Trans Js to Ts
 
