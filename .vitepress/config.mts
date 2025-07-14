@@ -28,6 +28,10 @@ export default defineConfig({
           text: "Technical Terms",
           link: "/express/technicalTerms.md",
         },
+        {
+          text: "Can't Hear Out Vocabulary",
+          link: "/express/cantHearOutVocabulary.md",
+        },
       ],
       "/technicalQuestion/": [
         {

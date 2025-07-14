@@ -54,12 +54,24 @@ In general, I had a lot of autonomy, and I really enjoyed that way of working."
 - This project is a micro-frontend application developed based on single-spa for an integrated financial tool.
 - The base app and each sub-app are developed using React / Vue.
 - Every sub-app can be deployed and used independently so that it can be customized for different clients just change a config file.
-- The sub-apps include real-time market data viewing, trade strategy back-test, asset metadata management, bond price calculator, and more.
+
+- The main function of this app is to management the data of different asset.
+
+- The sub-apps include real-time market data viewing, trade strategy edit, asset metadata management, bond price calculator, and more.
 
 #### real-time market data viewing
 
-Market data has two parts, one is history data, and another is real time data.
-history data get from RESTful api. and real time data uses websocket to subscribed from backend, and all data displayed in chart.
+- Market data has two parts, one is history data, and another is real time market data.
+- history data get from RESTful api.
+- real time market data uses websocket to subscribed from backend
+- use a list to store this market data, display in different chart type based on different data type
+- all data displayed in chart.
+
+#### Trade strategy Edit
+
+- This part is re-develop from Jupiter.
+- Wrote a custom Jupiter Block to generate trade strategy by low code.
+- People can drag and draw the strategy component and connect them by logic line.
 
 #### bond price calculator
 
