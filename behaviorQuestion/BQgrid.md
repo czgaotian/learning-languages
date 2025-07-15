@@ -84,6 +84,28 @@ Result
 - I accepted my colleague's solution. Because for the backend, this is indeed an unnecessary operation.
 - I implemented the calculation logic on the frontend and optimized performance using other methods.
 
+## had a conflict with a leader
+
+One example comes from my time at Tracade Tech, when I just joined this company.
+
+S:
+
+- I was given a big frontend project to finish in six months. At first, I was the only frontend developer working on it.
+
+A:
+
+- After going through the all requirements, I realized that I couldn't finish everything alone within the deadline.
+- So, I talk to my boss and explained the situation. I show him my time estimate and explained that the project is too big for one person
+- At first, he didn't agree - he thought I could handle it by working harder and say "just do it, and see how long we can go".
+- After a few weeks of development, I looked at our progress can't meet the deadline.
+- Based on the current pace, it was clear I couldn’t finish everything by the deadline.
+- I also suggested a solution: if we could add one or two more developers, I could lead the small team and make sure everything stayed on track.
+
+R:
+
+- After some discussion, he agreed to bring in two more developers. I took the lead, divided the work, and we finished the project on time.
+- In the end, the boss was happy with the result, and I learned how important it is to speak up early and offer solutions.
+
 ## Optimized light-weight chart
 
 traits: resilience, influencing, leadership
