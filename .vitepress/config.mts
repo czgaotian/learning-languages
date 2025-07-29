@@ -19,6 +19,12 @@ export default defineConfig({
       // { text: "Deutsch", link: "/Deutsch" },
     ],
     sidebar: {
+      "/work/": [
+        {
+          text: "Work Phrases",
+          link: "/work/workPhrases.md",
+        },
+      ],
       "/express/": [
         {
           text: "Vocabulary",
