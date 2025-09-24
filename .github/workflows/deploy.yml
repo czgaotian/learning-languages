@@ -24,3 +24,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .vitepress/dist
+          external_repository: czgaotian/czgaotian.github.io
+          publish_branch: main
